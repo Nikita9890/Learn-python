@@ -2,11 +2,14 @@ import pyautogui
 import subprocess
 import time
 from selenium import webdriver
+from selenium.webdriver import ActionChains, Keys
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.chrome.options import Options
 import os
+import pytest
+
 
 # Функция для запуска Surfshark
 def launch_surfshark():
@@ -91,6 +94,12 @@ def open_game_and_screenshot(driver, game_alt_text, wait_time, screenshot_name, 
 def run_selenium_test(games_list, registration_data, geo_name):
     # Настройки для мобильного режима
     chrome_options = Options()
+    # chrome_options.add_argument("--headless")  # Безголовый режим
+    # chrome_options.add_argument("--disable-gpu")
+    # chrome_options.add_argument("--disable-extensions")
+    # chrome_options.add_argument("--disable-software-rasterizer")
+    # chrome_options.add_argument("--window-size=1920,1080")
+    # chrome_options.add_argument("--start-maximized")
     mobile_emulation = {
         "deviceName": "iPhone X"
     }
@@ -98,6 +107,21 @@ def run_selenium_test(games_list, registration_data, geo_name):
 
     # Инициализация драйвера
     driver = webdriver.Chrome(options=chrome_options)
+
+    def clear_cache(driver):
+        try:
+            # Открытие страницы настроек Chrome
+            driver.get('chrome://settings/clearBrowserData')
+            time.sleep(2)
+
+            # Выполнение команды очистки кэша через JavaScript
+            actions = ActionChains(driver)
+            actions.send_keys(Keys.TAB * 3 + Keys.DOWN * 3).perform()  # Перемещаемся к кнопке "Очистить данные"
+            actions.send_keys(Keys.ENTER).perform()  # Подтверждаем очистку
+            time.sleep(5)
+            print("Кэш очищен.")
+        except Exception as e:
+            print(f"Ошибка при очистке кэша: {e}")
 
     try:
         # 1. Открываем сайт
@@ -112,11 +136,11 @@ def run_selenium_test(games_list, registration_data, geo_name):
             password=registration_data["password"]
         )
 
-        # Переход на главную
+        # 3 Переход на главную
         driver.find_element(By.CSS_SELECTOR, '._logo-icon_de94n_8').click()
         time.sleep(2)
 
-        # Открытие каждой игры из списка
+        # 4 Открытие каждой игры из списка
         for game in games_list:
             open_game_and_screenshot(
                 driver,
@@ -125,6 +149,10 @@ def run_selenium_test(games_list, registration_data, geo_name):
                 screenshot_name=game["screenshot_name"],
                 geo_name=geo_name
             )
+
+        # 5. Очистка кэша после всех игр
+        clear_cache(driver)
+
     except Exception as e:
         print(f"Общая ошибка: {e}")
     finally:
