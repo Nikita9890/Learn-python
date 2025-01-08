@@ -703,6 +703,38 @@ if __name__ == "__main__":
             ]
         },
 
+        "korea.png": {
+            "registration": {"phone": "1237416044", "email": "user_chiliqqqn@exawadwdwample.com",
+                             "password": "111111"},
+            "games": [
+                {"alt_text": "Aviator", "wait_time": 20, "screenshot_name": "aviator_MX"},
+                {"alt_text": "Plinko 1000", "wait_time": 20, "screenshot_name": "Plinko 1000_MX"},
+                {"alt_text": "Gates of Olympus Mobile", "wait_time": 20, "screenshot_name": "Gates of Olympus Mobile_MX"},
+                {"alt_text": "Balloon", "wait_time": 20, "screenshot_name": "Balloon_MX"},
+                {"alt_text": "Starlight Princess Mobile", "wait_time": 20, "screenshot_name": "Starlight Princess Mobile_MX"},
+                {"alt_text": "Mines", "wait_time": 20, "screenshot_name": "Mines_MX"},
+                {"alt_text": "Lucky mines", "wait_time": 20, "screenshot_name": "Lucky mines_MX"},
+                {"alt_text": "Sun of Egypt 3", "wait_time": 20, "screenshot_name": "Sun of Egypt 3_MX"},
+                {"alt_text": "Sweet Bonanza Mobile", "wait_time": 20, "screenshot_name": "Sweet Bonanza Mobile_MX"},
+                {"alt_text": "Sugar Rush Mobile", "wait_time": 20, "screenshot_name": "Sugar Rush Mobile_MX"},
+                {"alt_text": "Tropicana", "wait_time": 20, "screenshot_name": "Tropicana_MX"},
+                {"alt_text": "AVIAMASTERS Mobile", "wait_time": 20, "screenshot_name": "AVIAMASTERS Mobile_MX"},
+
+                {"alt_text": "Instant Super Sic Bo", "wait_time": 20, "screenshot_name": "Instant Super Sic Bo_MX"},
+                {"alt_text": "Lightning Baccarat", "wait_time": 20, "screenshot_name": "Lightning Baccarat_MX"},
+                {"alt_text": "Casino Holdem", "wait_time": 20, "screenshot_name": "Casino Holdem_MX"},
+                {"alt_text": "Dragon Tiger", "wait_time": 20, "screenshot_name": "Dragon Tiger_MX"},
+                {"alt_text": "Baccarat", "wait_time": 20, "screenshot_name": "Baccarat_MX"},
+                {"alt_text": "Unlimited Blackjack", "wait_time": 20, "screenshot_name": "Unlimited Blackjack_MX"},
+                {"alt_text": "Baccarat Super 6", "wait_time": 20, "screenshot_name": "Baccarat Super 6_MX"},
+                {"alt_text": "Sweet Bonanza CandyLand Mobile", "wait_time": 20, "screenshot_name": "Sweet Bonanza CandyLand Mobile_MX"},
+                {"alt_text": "Andar Bahar Mobile", "wait_time": 20, "screenshot_name": "Andar Bahar Mobile_MX"},
+                {"alt_text": "Dragon Tiger Mobile", "wait_time": 20, "screenshot_name": "Dragon Tiger Mobile_MX"},
+                {"alt_text": "ONE Blackjack Mobile", "wait_time": 20, "screenshot_name": "ONE Blackjack Mobile_MX"},
+                {"alt_text": "ONE Blackjack 2 - Ruby Mobile", "wait_time": 20, "screenshot_name": "ONE Blackjack 2 - Ruby Mobile_MX"},
+            ]
+        },
+
         # Добавьте аналогично другие ГЕО
     }
 
