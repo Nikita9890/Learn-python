@@ -8,8 +8,21 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.chrome.options import Options
 import os
-import pytest
 
+# # Словарь с уникальными сообщениями для чата под каждого ГЕО
+# geo_messages = {
+#     "india.png": "How to make a deposit?",
+#     "argentina.png": "¿Cómo hacer un depósito?",
+#     "brazil.png": "Como fazer um depósito?",
+#     "chili.png": "¿Cómo hacer un depósito?",
+#     "columbia.png": "¿Cómo hacer un depósito?",
+#     "egipt.png": "كيفية عمل إيداع؟",
+#     "mexico.png": "¿Cómo hacer un depósito?",
+#     "pery.png": "¿Cómo hacer un depósito?",
+#     "venesyela.png": "¿Cómo hacer un depósito?",
+#
+#     # Добавьте другие регионы по аналогии
+# }
 
 # Функция для запуска Surfshark
 def launch_surfshark():
@@ -32,16 +45,42 @@ def find_and_click_with_scroll(image_path, max_scrolls=10):
     return False
 
 # Функция для регистрации пользователя
-def register_user(driver, phone, email, password):
+def register_user(driver, phone=None, email=None, password=None):
     try:
-        driver.find_element(By.XPATH, '//*[@data-testid="phone-input"]').send_keys(phone)  # Ввод телефона
-        driver.find_element(By.XPATH, '//*[@name="email"]').send_keys(email)  # Ввод email
-        driver.find_element(By.XPATH, '//*[@name="password"]').send_keys(password)  # Ввод пароля
-        driver.find_element(By.XPATH, '//*[@data-testid="submit-button"]').click()  # Нажимаем на кнопку регистрации
+        # Ввод телефона, если он указан
+        if phone:
+            try:
+                phone_input = WebDriverWait(driver, 10).until(
+                    EC.presence_of_element_located((By.XPATH, '//*[@data-testid="phone-input"]'))
+                )
+                phone_input.clear()  # Убедитесь, что поле пустое
+                phone_input.send_keys(phone)
+            except Exception:
+                print("Поле для телефона отсутствует или недоступно.")
+
+        # Ввод email
+        email_input = WebDriverWait(driver, 10).until(
+            EC.presence_of_element_located((By.XPATH, '//*[@name="email"]'))
+        )
+        email_input.send_keys(email)
+
+        # Ввод пароля
+        password_input = WebDriverWait(driver, 10).until(
+            EC.presence_of_element_located((By.XPATH, '//*[@name="password"]'))
+        )
+        password_input.send_keys(password)
+
+        # Нажатие на кнопку регистрации
+        submit_button = WebDriverWait(driver, 10).until(
+            EC.presence_of_element_located((By.XPATH, '//*[@data-testid="submit-button"]'))
+        )
+        submit_button.click()
+
         print(f"Регистрация выполнена: {email}")
         time.sleep(10)  # Ожидание завершения регистрации
     except Exception as e:
         print(f"Ошибка при регистрации: {e}")
+
 
 # Функция для открытия игры, создания скриншота и возврата на главную
 def open_game_and_screenshot(driver, game_alt_text, wait_time, screenshot_name, geo_name):
@@ -90,6 +129,60 @@ def open_game_and_screenshot(driver, game_alt_text, wait_time, screenshot_name, 
     except Exception as e:
         print(f"Ошибка при открытии игры {game_alt_text}: {e}")
 
+# Функция для работы с чатом, отправки сообщения и сохранения скриншота
+# def handle_chat(driver, name, message, geo_name):
+#     try:
+#         # Ожидание видимости и наличия элемента на странице
+#         chat_logo = WebDriverWait(driver, 10).until(
+#             EC.presence_of_element_located((By.XPATH, '//*[@class="webim-ico webim-ico-webim-logo"]'))
+#         )
+#
+#         # Скролл к иконке чата, если она вне видимости
+#         driver.execute_script("arguments[0].scrollIntoView(true);", chat_logo)
+#
+#         # Убедитесь, что элемент кликабелен
+#         chat_logo = WebDriverWait(driver, 10).until(
+#             EC.element_to_be_clickable((By.XPATH, '//*[@class="webim-ico webim-ico-webim-logo"]'))
+#         )
+#
+#         # Клик по иконке чата
+#         chat_logo.click()
+#         time.sleep(10)
+#
+#         # Ввод имени
+#         name_input = WebDriverWait(driver, 10).until(
+#             EC.presence_of_element_located((By.XPATH, '(//*[@name="name"])[2]'))
+#         )
+#         name_input.send_keys(name)
+#         time.sleep(2)
+#
+#         # Ввод сообщения
+#         message_input = driver.find_element(By.XPATH, '(//*[@name="message"])[2]')
+#         message_input.send_keys(message)
+#         time.sleep(2)
+#
+#         # Нажатие на чекбокс согласия
+#         checkbox = driver.find_element(By.XPATH, '(//*[@name="processing-personal-data-checkbox"])[2]')
+#         checkbox.click()
+#
+#         # Нажатие на кнопку "Отправить"
+#         submit_button = driver.find_element(By.XPATH, '//*[@class="webim-btn webim-btn-send webim-custom-style-button"]')
+#         submit_button.click()
+#         print(f"Сообщение отправлено: {message}")
+#         time.sleep(10)
+#
+#
+#         # Создание скриншота
+#         chat_screenshot_folder = os.path.join("screenshots", geo_name)
+#         os.makedirs(chat_screenshot_folder, exist_ok=True)
+#         chat_screenshot_path = os.path.join(chat_screenshot_folder, "chat_screenshot.png")
+#         driver.save_screenshot(chat_screenshot_path)
+#         print(f"Скриншот чата сохранён: {chat_screenshot_path}")
+#
+#     except Exception as e:
+#         print(f"Ошибка при работе с чатом: {e}")
+
+
 # Основной код для запуска тестов с Selenium
 def run_selenium_test(games_list, registration_data, geo_name):
     # Настройки для мобильного режима
@@ -126,19 +219,20 @@ def run_selenium_test(games_list, registration_data, geo_name):
     try:
         # 1. Открываем сайт
         driver.get("https://valor.bet/")
-        time.sleep(10)
+        time.sleep(20)
 
         # 2. Регистрируем пользователя с уникальными данными
         register_user(
             driver,
-            phone=registration_data["phone"],
+            phone=registration_data.get("phone"), # Используем `get` для безопасного извлечения, вернет None, если "phone" нет
             email=registration_data["email"],
             password=registration_data["password"]
         )
+        time.sleep(10)
 
         # 3 Переход на главную
         driver.find_element(By.CSS_SELECTOR, '._logo-icon_de94n_8').click()
-        time.sleep(2)
+        time.sleep(3)
 
         # 4 Открытие каждой игры из списка
         for game in games_list:
@@ -149,6 +243,10 @@ def run_selenium_test(games_list, registration_data, geo_name):
                 screenshot_name=game["screenshot_name"],
                 geo_name=geo_name
             )
+
+        # # Вызов функции handle_chat с уникальным сообщением для текущего региона
+        # chat_message = geo_messages.get(geo_name, "Привет, это тестовое сообщение!")
+        # handle_chat(driver, name="Тестовый пользователь", message=chat_message, geo_name=geo_name)
 
         # 5. Очистка кэша после всех игр
         clear_cache(driver)
@@ -271,7 +369,7 @@ if __name__ == "__main__":
                 {"alt_text": "Magic Target Mobile", "wait_time": 20, "screenshot_name": "Magic Target Mobile_CL"},
                 {"alt_text": "The Dog House Mobile", "wait_time": 20, "screenshot_name": "The Dog House Mobile_CL"},
 
-                {"alt_text": "Mega Bola", "wait_time": 20, "screenshot_name": "Crazy Time_CL"},
+                {"alt_text": "Mega Bola", "wait_time": 20, "screenshot_name": "Mega Bola_CL"},
                 {"alt_text": "Lightning Roulette", "wait_time": 20, "screenshot_name": "Lightning Roulette_CL"},
                 {"alt_text": "Crazy Pachinko", "wait_time": 20, "screenshot_name": "Crazy Pachinko_CL"},
                 {"alt_text": "Monopoly Big Baller", "wait_time": 20, "screenshot_name": "Monopoly Big Baller_CL"},
@@ -303,7 +401,7 @@ if __name__ == "__main__":
                 {"alt_text": "Zeus vs Hades - Gods of War Mobile", "wait_time": 20, "screenshot_name": "Zeus vs Hades - Gods of War Mobile_PE"},
                 {"alt_text": "Hot-mines", "wait_time": 20, "screenshot_name": "Hot-mines_PE"},
 
-                {"alt_text": "Mega Bola", "wait_time": 20, "screenshot_name": "Crazy Time_PE"},
+                {"alt_text": "Mega Bola", "wait_time": 20, "screenshot_name": "Mega Bola_PE"},
                 {"alt_text": "Lightning Roulette", "wait_time": 20, "screenshot_name": "Lightning Roulette_PE"},
                 {"alt_text": "Crazy Pachinko", "wait_time": 20, "screenshot_name": "Crazy Pachinko_PE"},
                 {"alt_text": "Monopoly Live", "wait_time": 20, "screenshot_name": "Monopoly Live_PE"},
@@ -335,7 +433,7 @@ if __name__ == "__main__":
                 {"alt_text": "Robo dice", "wait_time": 20, "screenshot_name": "Robo dice_CO"},
                 {"alt_text": "Roulette", "wait_time": 20, "screenshot_name": "Roulette_CO"},
 
-                {"alt_text": "Gonzos Treasure Map", "wait_time": 20, "screenshot_name": "Crazy Time_CO"},
+                {"alt_text": "Gonzos Treasure Map", "wait_time": 20, "screenshot_name": "Gonzos Treasure Map_CO"},
                 {"alt_text": "Lightning Roulette", "wait_time": 20, "screenshot_name": "Lightning Roulette_CO"},
                 {"alt_text": "Crazy Pachinko", "wait_time": 20, "screenshot_name": "Crazy Pachinko_CO"},
                 {"alt_text": "Monopoly Live", "wait_time": 20, "screenshot_name": "Monopoly Live_CO"},
@@ -356,7 +454,7 @@ if __name__ == "__main__":
             "games": [
                 {"alt_text": "Aviator", "wait_time": 20, "screenshot_name": "aviator_EG"},
                 {"alt_text": "Diver", "wait_time": 20, "screenshot_name": "Diver_EG"},
-                {"alt_text": "Plinko 1000", "wait_time": 20, "screenshot_name": "Plinko 1000_EG"},
+                {"alt_text": "Book of Ra Mobile", "wait_time": 20, "screenshot_name": "Book of Ra Mobile_EG"},
                 {"alt_text": "Battle Trades", "wait_time": 20, "screenshot_name": "Battle Trades_EG"},
                 {"alt_text": "Sun of Egypt", "wait_time": 20, "screenshot_name": "Sun of Egypt_EG"},
                 {"alt_text": "Book Hotfire Mobile", "wait_time": 20, "screenshot_name": "Book Hotfire Mobile_EG"},
@@ -367,7 +465,7 @@ if __name__ == "__main__":
                 {"alt_text": "Dolphin's Pearl Mobile", "wait_time": 20, "screenshot_name": "Dolphin's Pearl Mobile_EG"},
                 {"alt_text": "Magic Apple 2", "wait_time": 20, "screenshot_name": "Magic Apple 2_EG"},
 
-                {"alt_text": "Gonzos Treasure Map", "wait_time": 20, "screenshot_name": "Crazy Time_EG"},
+                {"alt_text": "Gonzos Treasure Map", "wait_time": 20, "screenshot_name": "Gonzos Treasure Map_EG"},
                 {"alt_text": "Lightning Roulette", "wait_time": 20, "screenshot_name": "Lightning Roulette_EG"},
                 {"alt_text": "Crazy Pachinko", "wait_time": 10, "screenshot_name": "Crazy Pachinko_EG"},
                 {"alt_text": "Monopoly Live", "wait_time": 20, "screenshot_name": "Monopoly Live_EG"},
@@ -431,7 +529,7 @@ if __name__ == "__main__":
                 {"alt_text": "Sakura Fortune Mobile", "wait_time": 20, "screenshot_name": "Sakura Fortune Mobile_UZ"},
                 {"alt_text": "Hot Sync Mobile", "wait_time": 20, "screenshot_name": "Hot Sync Mobile_UZ"},
 
-                {"alt_text": "Gonzos Treasure Map", "wait_time": 20, "screenshot_name": "Crazy Time_UZ"},
+                {"alt_text": "Gonzos Treasure Map", "wait_time": 20, "screenshot_name": "Gonzos Treasure Map_UZ"},
                 {"alt_text": "Lightning Roulette", "wait_time": 20, "screenshot_name": "Lightning Roulette_UZ"},
                 {"alt_text": "Crazy Pachinko", "wait_time": 20, "screenshot_name": "Crazy Pachinko_UZ"},
                 {"alt_text": "Monopoly Live", "wait_time": 20, "screenshot_name": "Monopoly Live_UZ"},
@@ -478,7 +576,7 @@ if __name__ == "__main__":
             ]
         },
         "bangladesh.png": {
-            "registration": {"phone": "1237416044", "email": "user_chiliqqqn@exawadwdwample.com",
+            "registration": {"email": "user_chiliqqqn@exawadwdwample.com",
                              "password": "111111"},
             "games": [
                 {"alt_text": "Aviator", "wait_time": 20, "screenshot_name": "aviator_BG"},
@@ -510,7 +608,7 @@ if __name__ == "__main__":
         },
 
         "indonezia.png": {
-            "registration": {"phone": "1237416044", "email": "user_chiliqqqn@exawadwdwample.com",
+            "registration": {"phone": "12374160441", "email": "user_chiliqqqn@exawadwdwample.com",
                              "password": "111111"},
             "games": [
                 {"alt_text": "Aviator", "wait_time": 20, "screenshot_name": "aviator_ID"},
@@ -590,7 +688,7 @@ if __name__ == "__main__":
                 {"alt_text": "Keno", "wait_time": 20, "screenshot_name": "Keno_MX"},
                 {"alt_text": "Primal Megaways Mobile", "wait_time": 20, "screenshot_name": "Primal Megaways Mobile_MX"},
 
-                {"alt_text": "Gonzos Treasure Map", "wait_time": 20, "screenshot_name": "Crazy Time_MX"},
+                {"alt_text": "Gonzos Treasure Map", "wait_time": 20, "screenshot_name": "Gonzos Treasure Map_MX"},
                 {"alt_text": "Lightning Roulette", "wait_time": 20, "screenshot_name": "Lightning Roulette_MX"},
                 {"alt_text": "Crazy Pachinko", "wait_time": 20, "screenshot_name": "Crazy Pachinko_MX"},
                 {"alt_text": "Monopoly Live", "wait_time": 20, "screenshot_name": "Monopoly Live_MX"},
@@ -604,10 +702,6 @@ if __name__ == "__main__":
                 {"alt_text": "Extra Chilli Epic Spins", "wait_time": 20, "screenshot_name": "Extra Chilli Epic Spins_MX"},
             ]
         },
-
-
-
-
 
         # Добавьте аналогично другие ГЕО
     }
