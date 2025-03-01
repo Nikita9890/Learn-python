@@ -95,6 +95,19 @@ def open_game_and_screenshot(driver, game_alt_text, wait_time, screenshot_name, 
         driver.execute_script("arguments[0].click();", game_image)
         print(f"Открыта игра: {game_alt_text}")
 
+        # Ждем появления возможной модалки и закрываем её, если она есть
+        try:
+            # Явное ожидание появления кнопки закрытия модалки
+            close_button = WebDriverWait(driver, 10).until(
+                EC.element_to_be_clickable((By.XPATH, '//*[@data-cy="close-modal-button"]'))
+            )
+            # Кликаем по кнопке закрытия модалки
+            close_button.click()
+            print(f"Модалка закрыта перед снятием скриншота для игры {game_alt_text}.")
+            time.sleep(2)  # Даем время на закрытие модалки
+        except Exception:
+            print(f"Модалка не появилась для игры {game_alt_text}, продолжаем без её закрытия.")
+
         # Ждем указанное время
         time.sleep(wait_time)
 
@@ -231,7 +244,7 @@ def run_selenium_test(games_list, registration_data, geo_name):
         time.sleep(10)
 
         # 3 Переход на главную
-        driver.find_element(By.CSS_SELECTOR, '._logo-icon_de94n_8').click()
+        driver.find_element(By.CSS_SELECTOR, '[aria-label="Valor"]').click()
         time.sleep(3)
 
         # 4 Открытие каждой игры из списка
@@ -247,6 +260,17 @@ def run_selenium_test(games_list, registration_data, geo_name):
         # # Вызов функции handle_chat с уникальным сообщением для текущего региона
         # chat_message = geo_messages.get(geo_name, "Привет, это тестовое сообщение!")
         # handle_chat(driver, name="Тестовый пользователь", message=chat_message, geo_name=geo_name)
+
+        try:
+            # Явное ожидание появления модалки
+            close_button = WebDriverWait(driver, 10).until(
+                EC.element_to_be_clickable((By.XPATH, '//*[@data-cy="close-modal-button"]'))
+            )
+            # Кликаем по кнопке закрытия модалки
+            close_button.click()
+            time.sleep(2)  # Даем время на закрытие модалки
+        except Exception as e:
+            print(f"Ошибка при закрытии модалки: {e}")
 
         # 5. Очистка кэша после всех игр
         clear_cache(driver)
@@ -274,20 +298,20 @@ if __name__ == "__main__":
                 {"alt_text": "AVIAMASTERS Mobile", "wait_time": 20, "screenshot_name": "AVIAMASTERS Mobile_IN"},
                 {"alt_text": "Air Jet", "wait_time": 20, "screenshot_name": "Air Jet_IN"},
                 {"alt_text": "Roulette", "wait_time": 20, "screenshot_name": "Roulette_IN"},
-                {"alt_text": "Tropicana", "wait_time": 20, "screenshot_name": "Tropicana_IN"},
+                {"alt_text": "Plinko AZTEC", "wait_time": 20, "screenshot_name": "Plinko AZTEC_IN"},
 
                 {"alt_text": "Crazy Time", "wait_time": 20, "screenshot_name": "Crazy Time_IN"},
                 {"alt_text": "Monopoly Live", "wait_time": 20, "screenshot_name": "Monopoly Live_IN"},
                 {"alt_text": "Crazy Pachinko", "wait_time": 20, "screenshot_name": "Crazy Pachinko_IN"},
-                {"alt_text": "Dream Catcher", "wait_time": 20, "screenshot_name": "Dream Catcher_IN"},
+                {"alt_text": "Monopoly Big Baller", "wait_time": 20, "screenshot_name": "Monopoly Big Baller_IN"},
+                {"alt_text": "XXXTreme Lightning Roulette", "wait_time": 20, "screenshot_name": "XXXTreme Lightning Roulette_IN"},
                 {"alt_text": "Lightning Baccarat", "wait_time": 20, "screenshot_name": "Lightning Baccarat_IN"},
-                {"alt_text": "Baccarat A", "wait_time": 20, "screenshot_name": "Baccarat A_IN"},
-                {"alt_text": "Speed Baccarat D", "wait_time": 20, "screenshot_name": "Speed Baccarat D_IN"},
+                {"alt_text": "Lightning Roulette", "wait_time": 20, "screenshot_name": "Lightning Roulette_IN"},
+                {"alt_text": "Lightning Dice", "wait_time": 20, "screenshot_name": "Lightning Dice_IN"},
+                {"alt_text": "Golden Wealth Baccarat", "wait_time": 20, "screenshot_name": "Golden Wealth Baccarat_IN"},
                 {"alt_text": "Baccarat", "wait_time": 20, "screenshot_name": "Baccarat_IN"},
                 {"alt_text": "Crazy Coin Flip", "wait_time": 20, "screenshot_name": "Crazy Coin Flip_IN"},
-                {"alt_text": "Casino Holdem", "wait_time": 20, "screenshot_name": "Casino Holdem_IN"},
-                {"alt_text": "Three Card Poker", "wait_time": 20, "screenshot_name": "Three Card Poker_IN"},
-                {"alt_text": "Caribbean Stud Poker", "wait_time": 20, "screenshot_name": "Caribbean Stud Poker_IN"},
+                {"alt_text": "Football studio", "wait_time": 20, "screenshot_name": "Football studio_IN"},
             ]
         },
         # "azerbaijan.png": {
@@ -335,10 +359,10 @@ if __name__ == "__main__":
                 {"alt_text": "Crime Empire", "wait_time": 20, "screenshot_name": "Crime Empire_BR"},
                 {"alt_text": "AVIAMASTERS Mobile", "wait_time": 20, "screenshot_name": "AVIAMASTERS Mobile_BR"},
                 {"alt_text": "Air Jet", "wait_time": 20, "screenshot_name": "Air Jet_BR"},
-                {"alt_text": "Roulette", "wait_time": 20, "screenshot_name": "Roulette_BR"},
+                {"alt_text": "Plinko AZTEC", "wait_time": 20, "screenshot_name": "Plinko AZTEC_BR"},
                 {"alt_text": "Sweet Bonanza Mobile", "wait_time": 20, "screenshot_name": "Sweet Bonanza Mobile_BR"},
 
-                {"alt_text": "Crazy Time", "wait_time": 20, "screenshot_name": "Crazy Time_BR"},
+                {"alt_text": "Fortune 6 Baccarat Mobile", "wait_time": 20, "screenshot_name": "Crazy Time_BR"},
                 {"alt_text": "Monopoly Live", "wait_time": 20, "screenshot_name": "Monopoly Live_BR"},
                 {"alt_text": "Crazy Pachinko", "wait_time": 20, "screenshot_name": "Crazy Pachinko_BR"},
                 {"alt_text": "Lightning Roulette", "wait_time": 20, "screenshot_name": "Lightning Roulette_BR"},
