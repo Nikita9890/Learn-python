@@ -31,7 +31,7 @@ os.makedirs(BASE_SCREENSHOTS_PATH, exist_ok=True)  # Создаем основн
 SITE_URL = "https://valor.bet"
 
 # === Список тестируемых ГЕО ===
-geo_list = ["india", "columbia"]
+geo_list = ["india", "columbia","brazil","egipt","indonezia","korea","malayzia","mexico","pery","venesyela","yzbeckistan"]
 
 # === Функция генерации уникальных данных для регистрации ===
 def generate_user_data(geo):
@@ -189,12 +189,17 @@ def open_game_and_take_screenshot(driver, geo_name, game_id, geo_screenshot_path
 # === Основной тест ===
 def run_test():
     """Запуск теста для всех ГЕО"""
+    start_time = time.time()  # Засекаем время начала
+    test_results = []  # Список для отчета
+
     for geo in geo_list:
         print(f"\nТестируем ГЕО: {geo}")
+        test_start = time.time()
 
         # Шаг 1: Открытие Surfshark и выбор гео
         start_surfshark()
         if not select_geo(geo):
+            test_results.append(f"{geo}: ❌ Ошибка выбора GEO")
             continue
 
         # Шаг 2: Создание папки для скриншотов текущего ГЕО
@@ -211,11 +216,38 @@ def run_test():
             # Получаем все игры
             game_ids = get_game_ids()
 
-            for game_id in game_ids:
-                open_game_and_take_screenshot(driver, geo, game_id, geo_screenshot_path)
+            if not game_ids:
+                test_results.append(f"{geo}: ⚠️ Игры не найдены")
+            else:
+                for game_id in game_ids:
+                    open_game_and_take_screenshot(driver, geo, game_id, geo_screenshot_path)
+
+            test_results.append(f"{geo}: ✅ Успешно ({len(game_ids)} игр)")
+
+        except Exception as e:
+            test_results.append(f"{geo}: ❌ Ошибка - {str(e)}")
+            logging.error(f"Ошибка в GEO {geo}: {e}")
 
         finally:
             driver.quit()
+
+        test_end = time.time()
+        test_duration = round(test_end - test_start, 2)
+        print(f"Тест для {geo} завершен за {test_duration} сек")
+
+        # Конец теста
+    end_time = time.time()
+    total_duration = round(end_time - start_time, 2)
+
+    # === Запись отчета ===
+    report_path = "test_report.txt"
+    with open(report_path, "w", encoding="utf-8") as report_file:
+        report_file.write("=== Результаты тестирования ===\n")
+        report_file.write(f"Общее время выполнения: {total_duration} сек\n\n")
+        for result in test_results:
+            report_file.write(result + "\n")
+
+    print(f"\n✅ Тест завершен! Отчет сохранен в {report_path}")
 
         # После теста для текущего гео можно выключить Surfshark, если необходимо
         # os.system(r'start "" "C:\Program Files\Surfshark\Surfshark.exe" /stop')
