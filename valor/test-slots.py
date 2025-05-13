@@ -31,7 +31,19 @@ os.makedirs(BASE_SCREENSHOTS_PATH, exist_ok=True)  # Создаем основн
 SITE_URL = "https://valor.bet"
 
 # === Список тестируемых ГЕО ===
-geo_list = ["india", "columbia","brazil","egipt","indonezia","korea","malayzia","mexico","pery","venesyela","yzbeckistan"]
+geo_list = ["india",
+            "columbia",
+            "brazil",
+            "egipt",
+            "indonezia",
+            "korea",
+            "malayzia",
+            "mexico",
+            "pery",
+            "venesyela",
+            "yzbeckistan",
+            "nigerya",
+            "bangladesh"]
 
 # === Функция генерации уникальных данных для регистрации ===
 def generate_user_data(geo):
@@ -57,7 +69,7 @@ def get_driver():
     mobile_emulation = {"deviceName": "iPhone 12 Pro"}
     options.add_experimental_option("mobileEmulation", mobile_emulation)
     options.add_argument("--disable-blink-features=AutomationControlled")
-    # options.add_argument("--headless")  # Закомментировать если нужно видеть браузер
+    #options.add_argument("--headless")  # Закомментировать если нужно видеть браузер
 
     driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
     logger.info("Запущен браузер в мобильном режиме (iPhone 12 Pro)")
@@ -96,7 +108,7 @@ def register_on_site(driver, user_data):
     """Регистрирует пользователя на сайте"""
     driver.get(SITE_URL)
     WebDriverWait(driver, 15).until(lambda d: d.execute_script("return document.readyState") == "complete")
-    time.sleep(10)
+    time.sleep(15)
 
     try:
         email_field = driver.find_element(By.XPATH, '//*[@name="email"]')
@@ -119,7 +131,7 @@ def register_on_site(driver, user_data):
     submit_btn = driver.find_element(By.XPATH, '//*[@data-testid="submit-button"]')
     submit_btn.click()
 
-    time.sleep(10)
+    time.sleep(15)
 
 
 
@@ -162,19 +174,19 @@ def open_game_and_take_screenshot(driver, geo_name, game_id, geo_screenshot_path
     logging.info(f"Открыта игра с ID {game_id} в регионе {geo_name}")
 
     try:
-        # Ждем появления возможного модального окна и закрываем его
+        # Ждем появления модального окна депозита и закрываем его
         try:
             close_button = WebDriverWait(driver, 10).until(
                 EC.element_to_be_clickable((By.XPATH, '//*[@data-cy="close-modal-button"]'))
             )
             close_button.click()
             logging.info(f"Модалка закрыта для игры с ID {game_id}.")
-            time.sleep(3)  # Даем время на закрытие модалки
+            time.sleep(5)  # Даем время на закрытие модалки
         except Exception:
             logging.info(f"Модалка не появилась для игры с ID {game_id}, продолжаем без её закрытия.")
 
         # Даем время на загрузку игры
-        time.sleep(20)
+        time.sleep(25)
 
         # Сохраняем скриншот
         screenshot_name = f"{geo_name} — {game_id}.png"
