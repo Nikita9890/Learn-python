@@ -1,0 +1,6 @@
+selenium
+opencv-python
+pyautogui
+requests
+faker
+webdriver-manager

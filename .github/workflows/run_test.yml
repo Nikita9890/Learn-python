@@ -18,8 +18,7 @@ jobs:
 
     - name: Установить библиотеки Python
       run: |
-        pip install selenium
-        pip install opencv-python  # Добавляем установку OpenCV
+        pip install -r requirements.txt  # Установка всех зависимостей из requirements.txt
 
     - name: Запустить твой скрипт
       working-directory: valor
