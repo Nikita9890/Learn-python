@@ -21,5 +21,7 @@ jobs:
         pip install selenium
 
     - name: Запустить твой скрипт
-      run: python test-slots.py
+      run:
+        cd valor
+        python test-slots.py
 #
