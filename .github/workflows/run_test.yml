@@ -36,5 +36,5 @@ jobs:
         chmod +x /usr/local/bin/chromedriver
 
     - name: Запустить твой скрипт
-      run: python test_script.py
+      run: python test-slots.py
 #
