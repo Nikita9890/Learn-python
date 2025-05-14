@@ -17,7 +17,9 @@ jobs:
         python-version: 3.9
 
     - name: Установить библиотеки Python
-      run: pip install selenium
+      run: |
+        pip install selenium
+        pip install opencv-python  # Добавляем установку OpenCV
 
     - name: Запустить твой скрипт
       working-directory: valor
