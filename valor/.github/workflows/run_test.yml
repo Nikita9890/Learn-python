@@ -37,3 +37,4 @@ jobs:
 
     - name: Запустить твой скрипт
       run: python test_script.py
+#
