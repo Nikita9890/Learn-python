@@ -25,10 +25,8 @@ jobs:
         pip install selenium
         pip install opencv-python
 
-
     - name: Запустить твой скрипт
-      run: |
-        cd valor
-        python test-slots.py
+      working-directory: valor
+      run: python test-slots.py
 
 #
