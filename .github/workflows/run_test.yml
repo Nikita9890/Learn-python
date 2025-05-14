@@ -18,8 +18,10 @@ jobs:
 
     - name: Проверка Python
       run: |
-        where python  # Находит путь к Python
-        python --version  # Проверяет версию установленного Python
+        echo "C:\Users\Nikita\AppData\Local\Programs\Python\Python39" >> $GITHUB_PATH
+        python -m pip install --upgrade pip
+        python --version
+
 
     - name: Запуск теста
       working-directory: valor  # Переход в директорию с тестами
