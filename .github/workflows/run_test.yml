@@ -5,7 +5,7 @@ on:
 
 jobs:
   run:
-    runs-on: ubuntu-latest  # GitHub будет запускать код на сервере с Ubuntu
+    runs-on: self-hosted # GitHub будет запускать код на сервере с Ubuntu
 
     steps:
     - name: Скачать код из репозитория
