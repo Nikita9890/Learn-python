@@ -1,28 +1,24 @@
 name: Run Selenium Test
 
 on:
-  workflow_dispatch:  # Позволяет запускать workflow вручную через GitHub UI
+  workflow_dispatch:
 
 jobs:
   run:
-    runs-on: self-hosted  # Запуск на вашем локальном сервере (self-hosted runner)
+    runs-on: ubuntu-latest
 
     steps:
     - name: Скачать код из репозитория
-      uses: actions/checkout@v3  # Клонирование репозитория
+      uses: actions/checkout@v3
 
-    - name: Установить зависимости
-      run: |
-        python -m pip install --upgrade pip  # Обновление pip
-        python -m pip install -r requirements.txt  # Установка всех зависимостей из requirements.txt
+    - name: Установить Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: 3.9
 
-    - name: Проверка Python
-      run: |
-        echo "C:\Users\Nikita\AppData\Local\Programs\Python\Python39" >> $GITHUB_PATH
-        python -m pip install --upgrade pip
-        python --version
+    - name: Установить библиотеки Python
+      run: pip install selenium
 
-
-    - name: Запуск теста
-      working-directory: valor  # Переход в директорию с тестами
-      run: python test-slots.py  # Запуск теста
+    - name: Запустить твой скрипт
+      working-directory: valor
+      run: python test-slots.py
