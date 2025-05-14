@@ -69,7 +69,7 @@ def get_driver():
     mobile_emulation = {"deviceName": "iPhone 12 Pro"}
     options.add_experimental_option("mobileEmulation", mobile_emulation)
     options.add_argument("--disable-blink-features=AutomationControlled")
-    #options.add_argument("--headless")  # Закомментировать если нужно видеть браузер
+    options.add_argument("--headless")  # Закомментировать если нужно видеть браузер
 
     driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
     logger.info("Запущен браузер в мобильном режиме (iPhone 12 Pro)")
