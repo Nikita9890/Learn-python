@@ -20,6 +20,12 @@ jobs:
       run: |
         pip install selenium
 
+    - name: Установить библиотеки Python
+      run: |
+        pip install selenium
+        pip install opencv-python
+
+
     - name: Запустить твой скрипт
       run: |
         cd valor
