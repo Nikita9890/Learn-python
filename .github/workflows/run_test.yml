@@ -11,6 +11,9 @@ jobs:
     - name: Проверить версию Python
       run: python --version
 
-    - name: Запустить твой скрипт
+    - name: Установить зависимости
+      run: pip install selenium opencv-python pyautogui webdriver-manager faker requests
+
+    - name: Запустить скрипт
       working-directory: valor
       run: python test-slots.py
