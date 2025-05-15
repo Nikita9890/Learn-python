@@ -8,17 +8,8 @@ jobs:
     runs-on: self-hosted
 
     steps:
-    - name: Скачать код из репозитория
-      uses: actions/checkout@v3
-
-    - name: Установить Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: 3.10
-
-    - name: Установить библиотеки Python
-      run: |
-        pip install -r requirements.txt  # Установка всех зависимостей из requirements.txt
+    - name: Проверить версию Python
+      run: python --version
 
     - name: Запустить твой скрипт
       working-directory: valor
