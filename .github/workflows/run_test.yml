@@ -25,7 +25,7 @@ jobs:
         git config user.name "GitHub Actions"
         git config user.email "actions@github.com"
 
-        git add .
+        git add -A
 
         try {
           git commit -m "Автоотчет после теста"
@@ -40,3 +40,4 @@ jobs:
         }
 
         git push origin main
+      
