@@ -25,7 +25,7 @@ logging.basicConfig(
 faker = Faker()
 
 # === Пути для отчета и скриншотов ===
-REPORT_PATH = "report"
+REPORT_PATH = os.path.join(os.getcwd(), "docs")
 BASE_SCREENSHOTS_PATH = os.path.join(REPORT_PATH, "screenshots")
 os.makedirs(BASE_SCREENSHOTS_PATH, exist_ok=True)  # Создаем папки, если их нет
 
