@@ -22,19 +22,19 @@ jobs:
       working-directory: valor
       shell: powershell
       run: |
-              git config user.name "GitHub Actions"
-              git config user.email "actions@github.com"
+        git config user.name "GitHub Actions"
+        git config user.email "actions@github.com"
 
-              git pull --rebase origin main
+        git pull --rebase origin main
+        
+        git add .
 
-              git add .
+        try {
+        git commit -m "Автоотчет после теста" --no-edit
+        } catch {
+        Write-Host "No changes to commit"
+        }
 
-              try {
-              git commit -m "Автоотчет после теста" --no-edit
-              } catch {
-              Write-Host "No changes to commit"
-              }
-
-              git push origin main
+        git push origin main
 
 
