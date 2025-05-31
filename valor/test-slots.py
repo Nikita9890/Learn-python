@@ -24,6 +24,11 @@ logging.basicConfig(
 
 faker = Faker()
 
+# === Пути для отчета и скриншотов ===
+REPORT_PATH = "report"
+BASE_SCREENSHOTS_PATH = os.path.join(REPORT_PATH, "screenshots")
+os.makedirs(BASE_SCREENSHOTS_PATH, exist_ok=True)  # Создаем папки, если их нет
+
 # === Пути к папкам ===
 GEO_IMAGES_PATH = "E:\\GEO"
 BASE_SCREENSHOTS_PATH = "screenshots"
@@ -32,18 +37,19 @@ SITE_URL = "https://valor.bet"
 
 # === Список тестируемых ГЕО ===
 geo_list = ["india",
-            "columbia",
-            "brazil",
-            "egipt",
-            "indonezia",
-            "korea",
-            "malayzia",
-            "mexico",
-            "pery",
-            "venesyela",
-            "yzbeckistan",
-            "nigerya",
-            "bangladesh"]
+            #"columbia",
+            #"brazil",
+            #"egipt",
+           # "indonezia",
+           # "korea",
+          #  "malayzia",
+          #  "mexico",
+           # "pery",
+           # "venesyela",
+           # "yzbeckistan",
+           # "nigerya",
+          #  "bangladesh"
+    ]
 
 # === Функция генерации уникальных данных для регистрации ===
 def generate_user_data(geo):
@@ -69,7 +75,7 @@ def get_driver():
     mobile_emulation = {"deviceName": "iPhone 12 Pro"}
     options.add_experimental_option("mobileEmulation", mobile_emulation)
     options.add_argument("--disable-blink-features=AutomationControlled")
-    options.add_argument("--headless")  # Закомментировать если нужно видеть браузер
+    #options.add_argument("--headless")  # Закомментировать если нужно видеть браузер
 
     driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
     logger.info("Запущен браузер в мобильном режиме (iPhone 12 Pro)")
@@ -218,7 +224,9 @@ def run_test():
         geo_screenshot_path = create_geo_screenshot_folder(geo)
 
         # Шаг 3: Запуск теста для данного гео
+        print("🚀 Запускаем браузер...")
         driver = get_driver()
+        print("✅ Браузер запущен")
 
         try:
             user_data = generate_user_data(geo)  # Уникальные данные для каждого гео
@@ -252,16 +260,71 @@ def run_test():
     total_duration = round(end_time - start_time, 2)
 
     # === Запись отчета ===
-    report_path = "test_report.txt"
-    with open(report_path, "w", encoding="utf-8") as report_file:
-        report_file.write("=== Результаты тестирования ===\n")
-        report_file.write(f"Общее время выполнения: {total_duration} сек\n\n")
+    # === HTML отчет ===
+    html_report_path = os.path.join(REPORT_PATH, "index.html")
+    with open(html_report_path, "w", encoding="utf-8") as html_file:
+        html_file.write("""
+        <html>
+        <head>
+            <title>Тестовый отчет</title>
+            <style>
+                body { font-family: 'Segoe UI', sans-serif; background-color: #f5f7fa; color: #333; margin: 0; padding: 0; }
+                h1 { text-align: center; padding: 20px; background-color: #343a40; color: white; margin: 0; }
+                table { border-collapse: collapse; margin: 30px auto; width: 90%; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+                th, td { padding: 12px 20px; text-align: left; border-bottom: 1px solid #ddd; }
+                th { background-color: #6c757d; color: white; }
+                tr:hover { background-color: #f1f1f1; }
+                .success { color: green; font-weight: bold; }
+                .warning { color: orange; font-weight: bold; }
+                .error { color: red; font-weight: bold; }
+                .image-container { margin-top: 10px; }
+                img { height: 120px; margin-right: 10px; border-radius: 4px; border: 1px solid #ccc; }
+            </style>
+        </head>
+        <body>
+            <h1>Результаты тестирования</h1>
+            <p style="text-align:center;">Общее время выполнения: """ + str(total_duration) + """ сек</p>
+            <table>
+                <tr><th>GEO</th><th>Результат</th><th>Скриншоты</th></tr>
+        """)
+
         for result in test_results:
-            report_file.write(result + "\n")
+            geo_name, status = result.split(":", 1)
+            status = status.strip()
 
-    print(f"\n✅ Тест завершен! Отчет сохранен в {report_path}")
+            if "✅" in status:
+                status_class = "success"
+            elif "⚠️" in status:
+                status_class = "warning"
+            else:
+                status_class = "error"
 
-        # После теста для текущего гео можно выключить Surfshark, если необходимо
+            # Подгружаем до 24 скриншотов
+            geo_folder = os.path.join(BASE_SCREENSHOTS_PATH, geo_name)
+            images_html = ""
+            if os.path.exists(geo_folder):
+                screenshots = [f for f in os.listdir(geo_folder) if f.endswith(".png")]
+                for img_file in screenshots[:24]:
+                    img_path = os.path.join(geo_folder, img_file).replace("\\", "/")
+                    images_html += f'<img src="{img_path}" alt="{img_file}"/>'
+
+            html_file.write(f"""
+                <tr>
+                    <td>{geo_name}</td>
+                    <td class="{status_class}">{status}</td>
+                    <td><div class="image-container">{images_html}</div></td>
+                </tr>
+            """)
+
+        html_file.write("""
+            </table>
+        </body>
+        </html>
+        """)
+
+    print(f"\n Тест завершен! HTML-отчет сохранен в {html_report_path}")
+
+    # После теста для текущего гео можно выключить Surfshark, если необходимо
         # os.system(r'start "" "C:\Program Files\Surfshark\Surfshark.exe" /stop')
 
 if __name__ == "__main__":

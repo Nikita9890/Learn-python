@@ -17,3 +17,17 @@ jobs:
     - name: Запустить скрипт
       working-directory: valor
       run: python test-slots.py
+
+    - name: Upload HTML Report
+      uses: actions/upload-artifact@v3
+      with:
+        name: test-report
+        path: test_report.html
+
+    - name: Push Report to repo
+      run: |
+              git config user.name "GitHub Actions"
+              git config user.email "actions@github.com"
+              git add .
+              git commit -m " Автоотчет после теста"
+              git push
