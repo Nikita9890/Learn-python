@@ -20,14 +20,18 @@ jobs:
 
     - name: Push Report to repo
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
       working-directory: valor
       shell: powershell
 >>>>>>> f081606 (РђРІС‚РѕРѕС‚С‡РµС‚ РїРѕСЃР»Рµ С‚РµСЃС‚Р°)
+=======
+>>>>>>> db6a82f (РђРІС‚РѕРѕС‚С‡РµС‚ РїРѕСЃР»Рµ С‚РµСЃС‚Р°)
       run: |
         git config user.name "GitHub Actions"
         git config user.email "actions@github.com"
 
+<<<<<<< HEAD
 <<<<<<< HEAD
         git add .
 
@@ -47,15 +51,24 @@ jobs:
 =======
         git pull --rebase origin main
         
+=======
+>>>>>>> db6a82f (РђРІС‚РѕРѕС‚С‡РµС‚ РїРѕСЃР»Рµ С‚РµСЃС‚Р°)
         git add .
 
         try {
-        git commit -m "Автоотчет после теста" --no-edit
+          git commit -m "Автоотчет после теста"
         } catch {
-        Write-Host "No changes to commit"
+          Write-Host "No changes to commit"
         }
 
-        git push origin main
+        try {
+          git pull --rebase origin main
+        } catch {
+          Write-Host "Rebase failed or not needed"
+        }
 
-
+<<<<<<< HEAD
 >>>>>>> f081606 (РђРІС‚РѕРѕС‚С‡РµС‚ РїРѕСЃР»Рµ С‚РµСЃС‚Р°)
+=======
+        git push origin main
+>>>>>>> db6a82f (РђРІС‚РѕРѕС‚С‡РµС‚ РїРѕСЃР»Рµ С‚РµСЃС‚Р°)
