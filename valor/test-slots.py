@@ -204,16 +204,16 @@ def run_test():
         # Шаг 1: Открытие Surfshark и выбор гео
         start_surfshark()
         if not select_geo(geo):
-            test_results.append(f"{geo}: ❌ Ошибка выбора GEO")
+            test_results.append(f"{geo}:  Ошибка выбора GEO")
             continue
 
         # Шаг 2: Создание папки для скриншотов текущего ГЕО
         geo_screenshot_path = create_geo_screenshot_folder(geo)
 
         # Шаг 3: Запуск теста для данного гео
-        print("🚀 Запускаем браузер...")
+        print(" Запускаем браузер...")
         driver = get_driver()
-        print("✅ Браузер запущен")
+        print(" Браузер запущен")
 
         try:
             user_data = generate_user_data(geo)  # Уникальные данные для каждого гео
@@ -224,7 +224,7 @@ def run_test():
             game_ids = get_game_ids()
 
             if not game_ids:
-                test_results.append(f"{geo}: ⚠️ Игры не найдены")
+                test_results.append(f"{geo}: ⚠ Игры не найдены")
             else:
                 for game_id in game_ids:
                     open_game_and_take_screenshot(driver, geo, game_id, geo_screenshot_path)
