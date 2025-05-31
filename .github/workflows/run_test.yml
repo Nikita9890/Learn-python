@@ -14,6 +14,13 @@ jobs:
     - name: Установить зависимости
       run: pip install selenium opencv-python pyautogui webdriver-manager faker requests
 
+    - name: Очистить папку docs перед запуском
+      shell: powershell
+      run: |
+        if (Test-Path "docs") {
+          Remove-Item -Path "docs\*" -Recurse -Force
+        }
+
     - name: Запустить скрипт
       working-directory: valor
       run: python test-slots.py
@@ -40,4 +47,3 @@ jobs:
         }
 
         git push origin main
-      
