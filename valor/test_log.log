@@ -146,3 +146,81 @@
 2025-05-31 19:48:24 - INFO - Модалка закрыта для игры с ID 14641.
 2025-05-31 19:48:29 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'Удаленный хост принудительно разорвал существующее подключение', None, 10054, None)': /session/f6254be405ab3c10b87ef80448311039
 2025-05-31 19:48:33 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021C7822CE20>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/f6254be405ab3c10b87ef80448311039
+2025-05-31 19:57:28 - INFO - Создана папка для скриншотов: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\india
+2025-05-31 19:57:28 - INFO - ====== WebDriver manager ======
+2025-05-31 19:57:29 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-31 19:57:29 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-31 19:57:29 - INFO - Driver [C:\Users\Nikita\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-31 19:57:30 - INFO - Запущен браузер в мобильном режиме (iPhone 12 Pro)
+2025-05-31 19:58:09 - INFO - Открыта игра с ID 1 в регионе india
+2025-05-31 19:58:10 - INFO - Модалка закрыта для игры с ID 1.
+2025-05-31 19:58:40 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\india\india — 1.png
+2025-05-31 19:58:43 - INFO - Открыта игра с ID 17611 в регионе india
+2025-05-31 19:58:44 - INFO - Модалка закрыта для игры с ID 17611.
+2025-05-31 19:59:14 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\india\india — 17611.png
+2025-05-31 19:59:18 - INFO - Открыта игра с ID 8586 в регионе india
+2025-05-31 19:59:18 - INFO - Модалка закрыта для игры с ID 8586.
+2025-05-31 19:59:48 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\india\india — 8586.png
+2025-05-31 19:59:52 - INFO - Открыта игра с ID 17568 в регионе india
+2025-05-31 19:59:52 - INFO - Модалка закрыта для игры с ID 17568.
+2025-05-31 20:00:22 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\india\india — 17568.png
+2025-05-31 20:00:25 - INFO - Открыта игра с ID 8596 в регионе india
+2025-05-31 20:00:26 - INFO - Модалка закрыта для игры с ID 8596.
+2025-05-31 20:00:56 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\india\india — 8596.png
+2025-05-31 20:00:59 - INFO - Открыта игра с ID 17567 в регионе india
+2025-05-31 20:01:00 - INFO - Модалка закрыта для игры с ID 17567.
+2025-05-31 20:01:30 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\india\india — 17567.png
+2025-05-31 20:01:34 - INFO - Открыта игра с ID 14641 в регионе india
+2025-05-31 20:01:34 - INFO - Модалка закрыта для игры с ID 14641.
+2025-05-31 20:02:04 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\india\india — 14641.png
+2025-05-31 20:02:08 - INFO - Открыта игра с ID 17608 в регионе india
+2025-05-31 20:02:08 - INFO - Модалка закрыта для игры с ID 17608.
+2025-05-31 20:02:39 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\india\india — 17608.png
+2025-05-31 20:02:43 - INFO - Открыта игра с ID 8583 в регионе india
+2025-05-31 20:02:43 - INFO - Модалка закрыта для игры с ID 8583.
+2025-05-31 20:03:14 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\india\india — 8583.png
+2025-05-31 20:03:18 - INFO - Открыта игра с ID 8594 в регионе india
+2025-05-31 20:03:18 - INFO - Модалка закрыта для игры с ID 8594.
+2025-05-31 20:03:49 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\india\india — 8594.png
+2025-05-31 20:03:52 - INFO - Открыта игра с ID 15245 в регионе india
+2025-05-31 20:03:53 - INFO - Модалка закрыта для игры с ID 15245.
+2025-05-31 20:04:23 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\india\india — 15245.png
+2025-05-31 20:04:27 - INFO - Открыта игра с ID 14428 в регионе india
+2025-05-31 20:04:29 - INFO - Модалка закрыта для игры с ID 14428.
+2025-05-31 20:04:59 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\india\india — 14428.png
+2025-05-31 20:05:03 - INFO - Открыта игра с ID 16551 в регионе india
+2025-05-31 20:05:03 - INFO - Модалка закрыта для игры с ID 16551.
+2025-05-31 20:05:34 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\india\india — 16551.png
+2025-05-31 20:05:37 - INFO - Открыта игра с ID 16536 в регионе india
+2025-05-31 20:05:37 - INFO - Модалка закрыта для игры с ID 16536.
+2025-05-31 20:06:08 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\india\india — 16536.png
+2025-05-31 20:06:11 - INFO - Открыта игра с ID 16583 в регионе india
+2025-05-31 20:06:11 - INFO - Модалка закрыта для игры с ID 16583.
+2025-05-31 20:06:42 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\india\india — 16583.png
+2025-05-31 20:06:45 - INFO - Открыта игра с ID 16610 в регионе india
+2025-05-31 20:06:45 - INFO - Модалка закрыта для игры с ID 16610.
+2025-05-31 20:07:16 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\india\india — 16610.png
+2025-05-31 20:07:19 - INFO - Открыта игра с ID 16580 в регионе india
+2025-05-31 20:07:20 - INFO - Модалка закрыта для игры с ID 16580.
+2025-05-31 20:07:50 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\india\india — 16580.png
+2025-05-31 20:07:53 - INFO - Открыта игра с ID 16584 в регионе india
+2025-05-31 20:07:54 - INFO - Модалка закрыта для игры с ID 16584.
+2025-05-31 20:08:24 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\india\india — 16584.png
+2025-05-31 20:08:28 - INFO - Открыта игра с ID 16563 в регионе india
+2025-05-31 20:08:28 - INFO - Модалка закрыта для игры с ID 16563.
+2025-05-31 20:08:58 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\india\india — 16563.png
+2025-05-31 20:09:02 - INFO - Открыта игра с ID 16528 в регионе india
+2025-05-31 20:11:02 - INFO - Модалка не появилась для игры с ID 16528, продолжаем без её закрытия.
+2025-05-31 20:11:56 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\india\india — 16528.png
+2025-05-31 20:11:59 - INFO - Открыта игра с ID 16558 в регионе india
+2025-05-31 20:11:59 - INFO - Модалка закрыта для игры с ID 16558.
+2025-05-31 20:12:30 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\india\india — 16558.png
+2025-05-31 20:12:33 - INFO - Открыта игра с ID 16532 в регионе india
+2025-05-31 20:12:34 - INFO - Модалка закрыта для игры с ID 16532.
+2025-05-31 20:13:04 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\india\india — 16532.png
+2025-05-31 20:13:07 - INFO - Открыта игра с ID 16582 в регионе india
+2025-05-31 20:13:08 - INFO - Модалка закрыта для игры с ID 16582.
+2025-05-31 20:13:38 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\india\india — 16582.png
+2025-05-31 20:13:42 - INFO - Открыта игра с ID 16526 в регионе india
+2025-05-31 20:13:42 - INFO - Модалка закрыта для игры с ID 16526.
+2025-05-31 20:14:12 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\india\india — 16526.png
