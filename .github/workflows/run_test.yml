@@ -20,8 +20,17 @@ jobs:
 
     - name: Push Report to repo
       run: |
-              git config user.name "GitHub Actions"
-              git config user.email "actions@github.com"
-              git add .
-              git commit -m " Автоотчет после теста"
-              git push
+        git config user.name "GitHub Actions"
+        git config user.email "actions@github.com"
+
+        git pull --rebase origin main
+        
+        git add .
+
+        try {
+        git commit -m "Автоотчет после теста" --no-edit
+        } catch {
+        Write-Host "No changes to commit"
+        }
+
+        git push origin main
