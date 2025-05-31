@@ -20,10 +20,11 @@ jobs:
 
     - name: Push Report to repo
       working-directory: valor
-      shell: pwsh
+      shell: powershell
       run: |
         git config user.name "GitHub Actions"
         git config user.email "actions@github.com"
+
         git fetch origin main
         git reset --soft origin/main
         git add .
@@ -41,4 +42,5 @@ jobs:
         }
 
         git push origin main
+
 
