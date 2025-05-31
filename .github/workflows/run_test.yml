@@ -19,9 +19,13 @@ jobs:
       run: python test-slots.py
 
     - name: Push Report to repo
+      working-directory: valor
       run: |
-              git config user.name "GitHub Actions"
-              git config user.email "actions@github.com"
-              git add .
-              git commit -m " Автоотчет после теста"
-              git push
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git fetch origin main
+          git reset --soft origin/main
+          git add .
+          git commit -m "Автоотчет после теста" || echo "No changes to commit"
+          git pull --rebase origin main || echo "Rebase failed or no changes"
+          git push origin main
