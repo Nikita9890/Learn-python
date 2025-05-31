@@ -55,8 +55,7 @@ geo_list = ["india",
             "korea",
             "malayzia",
             "yzbeckistan"
-
-    ]
+]
 
 # === Функция генерации уникальных данных для регистрации ===
 def generate_user_data(geo):
