@@ -19,10 +19,16 @@ jobs:
       run: python test-slots.py
 
     - name: Push Report to repo
+<<<<<<< HEAD
+=======
+      working-directory: valor
+      shell: powershell
+>>>>>>> f081606 (РђРІС‚РѕРѕС‚С‡РµС‚ РїРѕСЃР»Рµ С‚РµСЃС‚Р°)
       run: |
         git config user.name "GitHub Actions"
         git config user.email "actions@github.com"
 
+<<<<<<< HEAD
         git add .
 
         try {
@@ -38,3 +44,18 @@ jobs:
         }
 
         git push origin main
+=======
+        git pull --rebase origin main
+        
+        git add .
+
+        try {
+        git commit -m "Автоотчет после теста" --no-edit
+        } catch {
+        Write-Host "No changes to commit"
+        }
+
+        git push origin main
+
+
+>>>>>>> f081606 (РђРІС‚РѕРѕС‚С‡РµС‚ РїРѕСЃР»Рµ С‚РµСЃС‚Р°)
