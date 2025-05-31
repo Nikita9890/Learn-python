@@ -118,3 +118,31 @@
 2025-05-31 19:34:02 - INFO - Открыта игра с ID 14428 в регионе india
 2025-05-31 19:34:02 - INFO - Модалка закрыта для игры с ID 14428.
 2025-05-31 19:34:33 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\india\india — 14428.png
+2025-05-31 19:44:17 - INFO - Создана папка для скриншотов: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\india
+2025-05-31 19:44:17 - INFO - ====== WebDriver manager ======
+2025-05-31 19:44:19 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-31 19:44:19 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-31 19:44:19 - INFO - Driver [C:\Users\Nikita\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-31 19:44:20 - INFO - Запущен браузер в мобильном режиме (iPhone 12 Pro)
+2025-05-31 19:45:00 - INFO - Открыта игра с ID 1 в регионе india
+2025-05-31 19:45:00 - INFO - Модалка закрыта для игры с ID 1.
+2025-05-31 19:45:31 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\india\india — 1.png
+2025-05-31 19:45:34 - INFO - Открыта игра с ID 17611 в регионе india
+2025-05-31 19:45:34 - INFO - Модалка закрыта для игры с ID 17611.
+2025-05-31 19:46:05 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\india\india — 17611.png
+2025-05-31 19:46:08 - INFO - Открыта игра с ID 8586 в регионе india
+2025-05-31 19:46:08 - INFO - Модалка закрыта для игры с ID 8586.
+2025-05-31 19:46:38 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\india\india — 8586.png
+2025-05-31 19:46:42 - INFO - Открыта игра с ID 17568 в регионе india
+2025-05-31 19:46:42 - INFO - Модалка закрыта для игры с ID 17568.
+2025-05-31 19:47:12 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\india\india — 17568.png
+2025-05-31 19:47:16 - INFO - Открыта игра с ID 8596 в регионе india
+2025-05-31 19:47:16 - INFO - Модалка закрыта для игры с ID 8596.
+2025-05-31 19:47:46 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\india\india — 8596.png
+2025-05-31 19:47:50 - INFO - Открыта игра с ID 17567 в регионе india
+2025-05-31 19:47:50 - INFO - Модалка закрыта для игры с ID 17567.
+2025-05-31 19:48:21 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\india\india — 17567.png
+2025-05-31 19:48:24 - INFO - Открыта игра с ID 14641 в регионе india
+2025-05-31 19:48:24 - INFO - Модалка закрыта для игры с ID 14641.
+2025-05-31 19:48:29 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'Удаленный хост принудительно разорвал существующее подключение', None, 10054, None)': /session/f6254be405ab3c10b87ef80448311039
+2025-05-31 19:48:33 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021C7822CE20>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/f6254be405ab3c10b87ef80448311039
