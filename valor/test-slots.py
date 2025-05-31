@@ -292,7 +292,7 @@ def run_test():
             if os.path.exists(geo_folder):
                 screenshots = [f for f in os.listdir(geo_folder) if f.endswith(".png")]
                 for img_file in screenshots[:24]:
-                    img_path = os.path.join(geo_folder, img_file).replace("\\", "/")
+                    img_path = f"screenshots/{geo_name}/{img_file}"
                     images_html += f'<img src="{img_path}" alt="{img_file}"/>'
 
             html_file.write(f"""
