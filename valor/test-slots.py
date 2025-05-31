@@ -37,18 +37,18 @@ SITE_URL = "https://valor.bet"
 
 # === Список тестируемых ГЕО ===
 geo_list = ["india",
-            "columbia",
-            "brazil",
-            "egipt",
-            "indonezia",
-            "korea",
-            "malayzia",
-            "mexico",
-            "pery",
-            "venesyela",
-            "yzbeckistan",
-            "nigerya",
-            "bangladesh"
+            #"columbia",
+            #"brazil",
+            #"egipt",
+           # "indonezia",
+           # "korea",
+          #  "malayzia",
+          #  "mexico",
+           # "pery",
+           # "venesyela",
+           # "yzbeckistan",
+           # "nigerya",
+          #  "bangladesh"
     ]
 
 # === Функция генерации уникальных данных для регистрации ===
