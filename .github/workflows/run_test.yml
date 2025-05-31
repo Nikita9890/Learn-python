@@ -19,8 +19,6 @@ jobs:
       run: python test-slots.py
 
     - name: Push Report to repo
-      working-directory: valor
-      shell: powershell
       run: |
         git config user.name "GitHub Actions"
         git config user.email "actions@github.com"
@@ -36,5 +34,3 @@ jobs:
         }
 
         git push origin main
-
-

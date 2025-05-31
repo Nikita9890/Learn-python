@@ -1,0 +1,45 @@
+=== Результаты тестирования ===
+Общее время выполнения: 10068.31 сек
+
+india: ✅ Успешно (24 игр)
+columbia: ✅ Успешно (12 игр)
+brazil: ✅ Успешно (24 игр)
+egipt: ✅ Успешно (24 игр)
+indonezia: ❌ Ошибка - Message: element click intercepted: Element <a aria-label="Valor" class="_logo_q85o9_1" href="/id">...</a> is not clickable at point (51, 36). Other element would receive the click: <h3 class="_title_1migp_111 _title_fontSize_medium_1migp_128">...</h3>
+  (Session info: chrome=136.0.7103.113)
+Stacktrace:
+	GetHandleVerifier [0x010DFC83+61635]
+	GetHandleVerifier [0x010DFCC4+61700]
+	(No symbol) [0x00F005D3]
+	(No symbol) [0x00F4ECB0]
+	(No symbol) [0x00F4D054]
+	(No symbol) [0x00F4ABF7]
+	(No symbol) [0x00F49EFB]
+	(No symbol) [0x00F3E5A5]
+	(No symbol) [0x00F6D29C]
+	(No symbol) [0x00F3E034]
+	(No symbol) [0x00F6D514]
+	(No symbol) [0x00F8E61B]
+	(No symbol) [0x00F6D096]
+	(No symbol) [0x00F3C840]
+	(No symbol) [0x00F3D6A4]
+	GetHandleVerifier [0x013645A3+2701795]
+	GetHandleVerifier [0x0135FD26+2683238]
+	GetHandleVerifier [0x0137AA6E+2793134]
+	GetHandleVerifier [0x010F6945+155013]
+	GetHandleVerifier [0x010FD02D+181357]
+	GetHandleVerifier [0x010E74D8+92440]
+	GetHandleVerifier [0x010E7680+92864]
+	GetHandleVerifier [0x010D2070+5296]
+	BaseThreadInitThunk [0x76BEFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x76FD82AE+286]
+	RtlGetAppContainerNamedObjectPath [0x76FD827E+238]
+
+korea: ✅ Успешно (24 игр)
+malayzia: ✅ Успешно (24 игр)
+mexico: ✅ Успешно (24 игр)
+pery: ✅ Успешно (18 игр)
+venesyela: ✅ Успешно (24 игр)
+yzbeckistan: ✅ Успешно (24 игр)
+nigerya: ✅ Успешно (24 игр)
+bangladesh: ✅ Успешно (24 игр)
