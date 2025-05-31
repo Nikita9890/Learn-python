@@ -19,7 +19,7 @@ jobs:
       run: python test-slots.py
 
     - name: Upload HTML Report
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v3.1.2
       with:
         name: test-report
         path: test_report.html
