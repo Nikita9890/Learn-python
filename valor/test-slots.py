@@ -40,6 +40,21 @@ SITE_URL = "https://valor.bet"
 
 # === Список тестируемых ГЕО ===
 geo_list = ["india",
+            "columbia",
+            "brazil",
+            "egipt",
+            "azerbaijan",
+            "bangladesh",
+            "pery",
+            "nigerya",
+            "venesyela",
+            "mexico",
+            "argentina",
+            "chili",
+            "indonezia",
+            "korea",
+            "malayzia",
+            "yzbeckistan"
 
     ]
 
