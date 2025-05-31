@@ -224,3 +224,1368 @@
 2025-05-31 20:13:42 - INFO - Открыта игра с ID 16526 в регионе india
 2025-05-31 20:13:42 - INFO - Модалка закрыта для игры с ID 16526.
 2025-05-31 20:14:12 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\india\india — 16526.png
+2025-05-31 20:18:34 - INFO - Создана папка для скриншотов: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\india
+2025-05-31 20:18:34 - INFO - ====== WebDriver manager ======
+2025-05-31 20:18:35 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-31 20:18:36 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-31 20:18:36 - INFO - Driver [C:\Users\Nikita\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-31 20:18:37 - INFO - Запущен браузер в мобильном режиме (iPhone 12 Pro)
+2025-05-31 20:19:16 - INFO - Открыта игра с ID 1 в регионе india
+2025-05-31 20:19:16 - INFO - Модалка закрыта для игры с ID 1.
+2025-05-31 20:19:46 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\india\india — 1.png
+2025-05-31 20:19:50 - INFO - Открыта игра с ID 17611 в регионе india
+2025-05-31 20:19:50 - INFO - Модалка закрыта для игры с ID 17611.
+2025-05-31 20:20:20 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\india\india — 17611.png
+2025-05-31 20:20:24 - INFO - Открыта игра с ID 8586 в регионе india
+2025-05-31 20:20:24 - INFO - Модалка закрыта для игры с ID 8586.
+2025-05-31 20:20:54 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\india\india — 8586.png
+2025-05-31 20:20:57 - INFO - Открыта игра с ID 17568 в регионе india
+2025-05-31 20:20:58 - INFO - Модалка закрыта для игры с ID 17568.
+2025-05-31 20:21:28 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\india\india — 17568.png
+2025-05-31 20:21:31 - INFO - Открыта игра с ID 8596 в регионе india
+2025-05-31 20:21:32 - INFO - Модалка закрыта для игры с ID 8596.
+2025-05-31 20:22:02 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\india\india — 8596.png
+2025-05-31 20:22:05 - INFO - Открыта игра с ID 17567 в регионе india
+2025-05-31 20:22:05 - INFO - Модалка закрыта для игры с ID 17567.
+2025-05-31 20:22:36 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\india\india — 17567.png
+2025-05-31 20:22:39 - INFO - Открыта игра с ID 14641 в регионе india
+2025-05-31 20:22:40 - INFO - Модалка закрыта для игры с ID 14641.
+2025-05-31 20:23:10 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\india\india — 14641.png
+2025-05-31 20:23:13 - INFO - Открыта игра с ID 17608 в регионе india
+2025-05-31 20:23:13 - INFO - Модалка закрыта для игры с ID 17608.
+2025-05-31 20:23:44 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\india\india — 17608.png
+2025-05-31 20:23:47 - INFO - Открыта игра с ID 8583 в регионе india
+2025-05-31 20:23:47 - INFO - Модалка закрыта для игры с ID 8583.
+2025-05-31 20:24:18 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\india\india — 8583.png
+2025-05-31 20:24:21 - INFO - Открыта игра с ID 8594 в регионе india
+2025-05-31 20:24:21 - INFO - Модалка закрыта для игры с ID 8594.
+2025-05-31 20:24:52 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\india\india — 8594.png
+2025-05-31 20:24:55 - INFO - Открыта игра с ID 15245 в регионе india
+2025-05-31 20:24:55 - INFO - Модалка закрыта для игры с ID 15245.
+2025-05-31 20:25:26 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\india\india — 15245.png
+2025-05-31 20:25:29 - INFO - Открыта игра с ID 14428 в регионе india
+2025-05-31 20:25:30 - INFO - Модалка закрыта для игры с ID 14428.
+2025-05-31 20:26:00 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\india\india — 14428.png
+2025-05-31 20:26:04 - INFO - Открыта игра с ID 16551 в регионе india
+2025-05-31 20:26:04 - INFO - Модалка закрыта для игры с ID 16551.
+2025-05-31 20:26:35 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\india\india — 16551.png
+2025-05-31 20:26:38 - INFO - Открыта игра с ID 16536 в регионе india
+2025-05-31 20:26:38 - INFO - Модалка закрыта для игры с ID 16536.
+2025-05-31 20:27:09 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\india\india — 16536.png
+2025-05-31 20:27:12 - INFO - Открыта игра с ID 16583 в регионе india
+2025-05-31 20:27:12 - INFO - Модалка закрыта для игры с ID 16583.
+2025-05-31 20:27:43 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\india\india — 16583.png
+2025-05-31 20:27:46 - INFO - Открыта игра с ID 16610 в регионе india
+2025-05-31 20:27:46 - INFO - Модалка закрыта для игры с ID 16610.
+2025-05-31 20:28:17 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\india\india — 16610.png
+2025-05-31 20:28:20 - INFO - Открыта игра с ID 16580 в регионе india
+2025-05-31 20:28:20 - INFO - Модалка закрыта для игры с ID 16580.
+2025-05-31 20:28:51 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\india\india — 16580.png
+2025-05-31 20:28:54 - INFO - Открыта игра с ID 16584 в регионе india
+2025-05-31 20:28:54 - INFO - Модалка закрыта для игры с ID 16584.
+2025-05-31 20:29:25 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\india\india — 16584.png
+2025-05-31 20:29:28 - INFO - Открыта игра с ID 16563 в регионе india
+2025-05-31 20:29:29 - INFO - Модалка закрыта для игры с ID 16563.
+2025-05-31 20:29:59 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\india\india — 16563.png
+2025-05-31 20:30:03 - INFO - Открыта игра с ID 16528 в регионе india
+2025-05-31 20:30:03 - INFO - Модалка закрыта для игры с ID 16528.
+2025-05-31 20:30:33 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\india\india — 16528.png
+2025-05-31 20:30:37 - INFO - Открыта игра с ID 16558 в регионе india
+2025-05-31 20:30:37 - INFO - Модалка закрыта для игры с ID 16558.
+2025-05-31 20:31:07 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\india\india — 16558.png
+2025-05-31 20:31:11 - INFO - Открыта игра с ID 16532 в регионе india
+2025-05-31 20:31:11 - INFO - Модалка закрыта для игры с ID 16532.
+2025-05-31 20:31:41 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\india\india — 16532.png
+2025-05-31 20:31:45 - INFO - Открыта игра с ID 16582 в регионе india
+2025-05-31 20:31:45 - INFO - Модалка закрыта для игры с ID 16582.
+2025-05-31 20:32:16 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\india\india — 16582.png
+2025-05-31 20:32:19 - INFO - Открыта игра с ID 16526 в регионе india
+2025-05-31 20:32:19 - INFO - Модалка закрыта для игры с ID 16526.
+2025-05-31 20:32:50 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\india\india — 16526.png
+2025-05-31 20:33:02 - INFO - Создана папка для скриншотов: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\columbia
+2025-05-31 20:33:02 - INFO - ====== WebDriver manager ======
+2025-05-31 20:33:03 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-31 20:33:05 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-31 20:33:05 - INFO - Driver [C:\Users\Nikita\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-31 20:33:06 - INFO - Запущен браузер в мобильном режиме (iPhone 12 Pro)
+2025-05-31 20:33:51 - INFO - Открыта игра с ID 14353 в регионе columbia
+2025-05-31 20:33:51 - INFO - Модалка закрыта для игры с ID 14353.
+2025-05-31 20:34:22 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\columbia\columbia — 14353.png
+2025-05-31 20:34:26 - INFO - Открыта игра с ID 1 в регионе columbia
+2025-05-31 20:34:26 - INFO - Модалка закрыта для игры с ID 1.
+2025-05-31 20:34:56 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\columbia\columbia — 1.png
+2025-05-31 20:35:00 - INFO - Открыта игра с ID 8590 в регионе columbia
+2025-05-31 20:35:00 - INFO - Модалка закрыта для игры с ID 8590.
+2025-05-31 20:35:30 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\columbia\columbia — 8590.png
+2025-05-31 20:35:35 - INFO - Открыта игра с ID 3513 в регионе columbia
+2025-05-31 20:35:35 - INFO - Модалка закрыта для игры с ID 3513.
+2025-05-31 20:36:06 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\columbia\columbia — 3513.png
+2025-05-31 20:36:09 - INFO - Открыта игра с ID 8596 в регионе columbia
+2025-05-31 20:36:10 - INFO - Модалка закрыта для игры с ID 8596.
+2025-05-31 20:36:40 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\columbia\columbia — 8596.png
+2025-05-31 20:36:45 - INFO - Открыта игра с ID 8584 в регионе columbia
+2025-05-31 20:36:45 - INFO - Модалка закрыта для игры с ID 8584.
+2025-05-31 20:37:15 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\columbia\columbia — 8584.png
+2025-05-31 20:37:19 - INFO - Открыта игра с ID 8589 в регионе columbia
+2025-05-31 20:37:20 - INFO - Модалка закрыта для игры с ID 8589.
+2025-05-31 20:37:50 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\columbia\columbia — 8589.png
+2025-05-31 20:37:54 - INFO - Открыта игра с ID 14641 в регионе columbia
+2025-05-31 20:37:55 - INFO - Модалка закрыта для игры с ID 14641.
+2025-05-31 20:38:25 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\columbia\columbia — 14641.png
+2025-05-31 20:38:29 - INFO - Открыта игра с ID 8591 в регионе columbia
+2025-05-31 20:38:29 - INFO - Модалка закрыта для игры с ID 8591.
+2025-05-31 20:38:59 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\columbia\columbia — 8591.png
+2025-05-31 20:39:04 - INFO - Открыта игра с ID 8594 в регионе columbia
+2025-05-31 20:39:04 - INFO - Модалка закрыта для игры с ID 8594.
+2025-05-31 20:39:35 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\columbia\columbia — 8594.png
+2025-05-31 20:39:39 - INFO - Открыта игра с ID 8583 в регионе columbia
+2025-05-31 20:39:39 - INFO - Модалка закрыта для игры с ID 8583.
+2025-05-31 20:40:10 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\columbia\columbia — 8583.png
+2025-05-31 20:40:15 - INFO - Открыта игра с ID 14428 в регионе columbia
+2025-05-31 20:40:15 - INFO - Модалка закрыта для игры с ID 14428.
+2025-05-31 20:40:45 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\columbia\columbia — 14428.png
+2025-05-31 20:40:58 - INFO - Создана папка для скриншотов: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\brazil
+2025-05-31 20:40:58 - INFO - ====== WebDriver manager ======
+2025-05-31 20:40:59 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-31 20:41:01 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-31 20:41:02 - INFO - Driver [C:\Users\Nikita\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-31 20:41:03 - INFO - Запущен браузер в мобильном режиме (iPhone 12 Pro)
+2025-05-31 20:41:48 - INFO - Открыта игра с ID 1 в регионе brazil
+2025-05-31 20:41:48 - INFO - Модалка закрыта для игры с ID 1.
+2025-05-31 20:42:18 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\brazil\brazil — 1.png
+2025-05-31 20:42:23 - INFO - Открыта игра с ID 17611 в регионе brazil
+2025-05-31 20:42:23 - INFO - Модалка закрыта для игры с ID 17611.
+2025-05-31 20:42:54 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\brazil\brazil — 17611.png
+2025-05-31 20:42:57 - INFO - Открыта игра с ID 8586 в регионе brazil
+2025-05-31 20:42:57 - INFO - Модалка закрыта для игры с ID 8586.
+2025-05-31 20:43:28 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\brazil\brazil — 8586.png
+2025-05-31 20:43:32 - INFO - Открыта игра с ID 17568 в регионе brazil
+2025-05-31 20:43:32 - INFO - Модалка закрыта для игры с ID 17568.
+2025-05-31 20:44:02 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\brazil\brazil — 17568.png
+2025-05-31 20:44:08 - INFO - Открыта игра с ID 8596 в регионе brazil
+2025-05-31 20:44:08 - INFO - Модалка закрыта для игры с ID 8596.
+2025-05-31 20:44:38 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\brazil\brazil — 8596.png
+2025-05-31 20:44:42 - INFO - Открыта игра с ID 17567 в регионе brazil
+2025-05-31 20:44:42 - INFO - Модалка закрыта для игры с ID 17567.
+2025-05-31 20:45:13 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\brazil\brazil — 17567.png
+2025-05-31 20:45:18 - INFO - Открыта игра с ID 14641 в регионе brazil
+2025-05-31 20:45:18 - INFO - Модалка закрыта для игры с ID 14641.
+2025-05-31 20:45:48 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\brazil\brazil — 14641.png
+2025-05-31 20:45:53 - INFO - Открыта игра с ID 17608 в регионе brazil
+2025-05-31 20:45:53 - INFO - Модалка закрыта для игры с ID 17608.
+2025-05-31 20:46:24 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\brazil\brazil — 17608.png
+2025-05-31 20:46:28 - INFO - Открыта игра с ID 8583 в регионе brazil
+2025-05-31 20:46:28 - INFO - Модалка закрыта для игры с ID 8583.
+2025-05-31 20:46:58 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\brazil\brazil — 8583.png
+2025-05-31 20:47:02 - INFO - Открыта игра с ID 8594 в регионе brazil
+2025-05-31 20:47:03 - INFO - Модалка закрыта для игры с ID 8594.
+2025-05-31 20:47:33 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\brazil\brazil — 8594.png
+2025-05-31 20:47:38 - INFO - Открыта игра с ID 15245 в регионе brazil
+2025-05-31 20:47:38 - INFO - Модалка закрыта для игры с ID 15245.
+2025-05-31 20:48:08 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\brazil\brazil — 15245.png
+2025-05-31 20:48:23 - INFO - Открыта игра с ID 14428 в регионе brazil
+2025-05-31 20:48:23 - INFO - Модалка закрыта для игры с ID 14428.
+2025-05-31 20:48:54 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\brazil\brazil — 14428.png
+2025-05-31 20:49:06 - INFO - Создана папка для скриншотов: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\egipt
+2025-05-31 20:49:06 - INFO - ====== WebDriver manager ======
+2025-05-31 20:49:07 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-31 20:49:08 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-31 20:49:08 - INFO - Driver [C:\Users\Nikita\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-31 20:49:09 - INFO - Запущен браузер в мобильном режиме (iPhone 12 Pro)
+2025-05-31 20:49:48 - INFO - Открыта игра с ID 1 в регионе egipt
+2025-05-31 20:49:49 - INFO - Модалка закрыта для игры с ID 1.
+2025-05-31 20:50:19 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\egipt\egipt — 1.png
+2025-05-31 20:50:22 - INFO - Открыта игра с ID 8583 в регионе egipt
+2025-05-31 20:50:23 - INFO - Модалка закрыта для игры с ID 8583.
+2025-05-31 20:50:53 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\egipt\egipt — 8583.png
+2025-05-31 20:50:56 - INFO - Открыта игра с ID 3868 в регионе egipt
+2025-05-31 20:50:57 - INFO - Модалка закрыта для игры с ID 3868.
+2025-05-31 20:51:27 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\egipt\egipt — 3868.png
+2025-05-31 20:51:31 - INFO - Открыта игра с ID 14553 в регионе egipt
+2025-05-31 20:51:31 - INFO - Модалка закрыта для игры с ID 14553.
+2025-05-31 20:52:02 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\egipt\egipt — 14553.png
+2025-05-31 20:52:05 - INFO - Открыта игра с ID 8580 в регионе egipt
+2025-05-31 20:52:06 - INFO - Модалка закрыта для игры с ID 8580.
+2025-05-31 20:52:36 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\egipt\egipt — 8580.png
+2025-05-31 20:52:40 - INFO - Открыта игра с ID 6655 в регионе egipt
+2025-05-31 20:52:40 - INFO - Модалка закрыта для игры с ID 6655.
+2025-05-31 20:53:10 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\egipt\egipt — 6655.png
+2025-05-31 20:53:14 - INFO - Открыта игра с ID 14521 в регионе egipt
+2025-05-31 20:53:14 - INFO - Модалка закрыта для игры с ID 14521.
+2025-05-31 20:53:45 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\egipt\egipt — 14521.png
+2025-05-31 20:53:48 - INFO - Открыта игра с ID 2324 в регионе egipt
+2025-05-31 20:53:48 - INFO - Модалка закрыта для игры с ID 2324.
+2025-05-31 20:54:19 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\egipt\egipt — 2324.png
+2025-05-31 20:54:22 - INFO - Открыта игра с ID 14523 в регионе egipt
+2025-05-31 20:54:22 - INFO - Модалка закрыта для игры с ID 14523.
+2025-05-31 20:54:53 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\egipt\egipt — 14523.png
+2025-05-31 20:54:56 - INFO - Открыта игра с ID 3892 в регионе egipt
+2025-05-31 20:54:57 - INFO - Модалка закрыта для игры с ID 3892.
+2025-05-31 20:55:28 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\egipt\egipt — 3892.png
+2025-05-31 20:55:31 - INFO - Открыта игра с ID 14529 в регионе egipt
+2025-05-31 20:55:31 - INFO - Модалка закрыта для игры с ID 14529.
+2025-05-31 20:56:02 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\egipt\egipt — 14529.png
+2025-05-31 20:56:05 - INFO - Открыта игра с ID 2 в регионе egipt
+2025-05-31 20:56:06 - INFO - Модалка закрыта для игры с ID 2.
+2025-05-31 20:56:36 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\egipt\egipt — 2.png
+2025-05-31 20:56:39 - INFO - Открыта игра с ID 8082 в регионе egipt
+2025-05-31 20:56:40 - INFO - Модалка закрыта для игры с ID 8082.
+2025-05-31 20:57:10 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\egipt\egipt — 8082.png
+2025-05-31 20:57:14 - INFO - Открыта игра с ID 8081 в регионе egipt
+2025-05-31 20:57:14 - INFO - Модалка закрыта для игры с ID 8081.
+2025-05-31 20:57:44 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\egipt\egipt — 8081.png
+2025-05-31 20:57:48 - INFO - Открыта игра с ID 8135 в регионе egipt
+2025-05-31 20:57:48 - INFO - Модалка закрыта для игры с ID 8135.
+2025-05-31 20:58:18 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\egipt\egipt — 8135.png
+2025-05-31 20:58:22 - INFO - Открыта игра с ID 7920 в регионе egipt
+2025-05-31 20:58:22 - INFO - Модалка закрыта для игры с ID 7920.
+2025-05-31 20:58:53 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\egipt\egipt — 7920.png
+2025-05-31 20:58:56 - INFO - Открыта игра с ID 7948 в регионе egipt
+2025-05-31 20:58:57 - INFO - Модалка закрыта для игры с ID 7948.
+2025-05-31 20:59:27 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\egipt\egipt — 7948.png
+2025-05-31 20:59:31 - INFO - Открыта игра с ID 7934 в регионе egipt
+2025-05-31 20:59:31 - INFO - Модалка закрыта для игры с ID 7934.
+2025-05-31 21:00:01 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\egipt\egipt — 7934.png
+2025-05-31 21:00:05 - INFO - Открыта игра с ID 7944 в регионе egipt
+2025-05-31 21:00:05 - INFO - Модалка закрыта для игры с ID 7944.
+2025-05-31 21:00:35 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\egipt\egipt — 7944.png
+2025-05-31 21:00:39 - INFO - Открыта игра с ID 8323 в регионе egipt
+2025-05-31 21:00:39 - INFO - Модалка закрыта для игры с ID 8323.
+2025-05-31 21:01:09 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\egipt\egipt — 8323.png
+2025-05-31 21:01:13 - INFO - Открыта игра с ID 8248 в регионе egipt
+2025-05-31 21:01:13 - INFO - Модалка закрыта для игры с ID 8248.
+2025-05-31 21:01:44 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\egipt\egipt — 8248.png
+2025-05-31 21:01:47 - INFO - Открыта игра с ID 8140 в регионе egipt
+2025-05-31 21:01:47 - INFO - Модалка закрыта для игры с ID 8140.
+2025-05-31 21:02:18 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\egipt\egipt — 8140.png
+2025-05-31 21:02:21 - INFO - Открыта игра с ID 8127 в регионе egipt
+2025-05-31 21:02:21 - INFO - Модалка закрыта для игры с ID 8127.
+2025-05-31 21:02:52 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\egipt\egipt — 8127.png
+2025-05-31 21:02:56 - INFO - Открыта игра с ID 7930 в регионе egipt
+2025-05-31 21:02:56 - INFO - Модалка закрыта для игры с ID 7930.
+2025-05-31 21:03:26 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\egipt\egipt — 7930.png
+2025-05-31 21:10:55 - INFO - Создана папка для скриншотов: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\india
+2025-05-31 21:10:55 - INFO - ====== WebDriver manager ======
+2025-05-31 21:10:56 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-31 21:10:56 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-31 21:10:56 - INFO - Driver [C:\Users\Nikita\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-31 21:10:58 - INFO - Запущен браузер в мобильном режиме (iPhone 12 Pro)
+2025-05-31 21:11:36 - INFO - Открыта игра с ID 1 в регионе india
+2025-05-31 21:11:37 - INFO - Модалка закрыта для игры с ID 1.
+2025-05-31 21:12:08 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\india\india — 1.png
+2025-05-31 21:12:11 - INFO - Открыта игра с ID 17611 в регионе india
+2025-05-31 21:12:11 - INFO - Модалка закрыта для игры с ID 17611.
+2025-05-31 21:12:41 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\india\india — 17611.png
+2025-05-31 21:12:45 - INFO - Открыта игра с ID 8586 в регионе india
+2025-05-31 21:12:45 - INFO - Модалка закрыта для игры с ID 8586.
+2025-05-31 21:13:15 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\india\india — 8586.png
+2025-05-31 21:13:19 - INFO - Открыта игра с ID 17568 в регионе india
+2025-05-31 21:13:19 - INFO - Модалка закрыта для игры с ID 17568.
+2025-05-31 21:13:49 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\india\india — 17568.png
+2025-05-31 21:13:52 - INFO - Открыта игра с ID 8596 в регионе india
+2025-05-31 21:13:53 - INFO - Модалка закрыта для игры с ID 8596.
+2025-05-31 21:14:23 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\india\india — 8596.png
+2025-05-31 21:14:26 - INFO - Открыта игра с ID 17567 в регионе india
+2025-05-31 21:14:27 - INFO - Модалка закрыта для игры с ID 17567.
+2025-05-31 21:14:57 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\india\india — 17567.png
+2025-05-31 21:15:01 - INFO - Открыта игра с ID 14641 в регионе india
+2025-05-31 21:15:01 - INFO - Модалка закрыта для игры с ID 14641.
+2025-05-31 21:15:31 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\india\india — 14641.png
+2025-05-31 21:15:34 - INFO - Открыта игра с ID 17608 в регионе india
+2025-05-31 21:15:35 - INFO - Модалка закрыта для игры с ID 17608.
+2025-05-31 21:16:05 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\india\india — 17608.png
+2025-05-31 21:16:08 - INFO - Открыта игра с ID 8583 в регионе india
+2025-05-31 21:16:08 - INFO - Модалка закрыта для игры с ID 8583.
+2025-05-31 21:16:39 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\india\india — 8583.png
+2025-05-31 21:16:42 - INFO - Открыта игра с ID 8594 в регионе india
+2025-05-31 21:16:42 - INFO - Модалка закрыта для игры с ID 8594.
+2025-05-31 21:17:13 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\india\india — 8594.png
+2025-05-31 21:17:16 - INFO - Открыта игра с ID 15245 в регионе india
+2025-05-31 21:17:16 - INFO - Модалка закрыта для игры с ID 15245.
+2025-05-31 21:17:47 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\india\india — 15245.png
+2025-05-31 21:17:50 - INFO - Открыта игра с ID 14428 в регионе india
+2025-05-31 21:17:50 - INFO - Модалка закрыта для игры с ID 14428.
+2025-05-31 21:18:21 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\india\india — 14428.png
+2025-05-31 21:18:24 - INFO - Открыта игра с ID 16551 в регионе india
+2025-05-31 21:18:25 - INFO - Модалка закрыта для игры с ID 16551.
+2025-05-31 21:18:55 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\india\india — 16551.png
+2025-05-31 21:18:58 - INFO - Открыта игра с ID 16536 в регионе india
+2025-05-31 21:18:59 - INFO - Модалка закрыта для игры с ID 16536.
+2025-05-31 21:19:29 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\india\india — 16536.png
+2025-05-31 21:19:33 - INFO - Открыта игра с ID 16583 в регионе india
+2025-05-31 21:19:33 - INFO - Модалка закрыта для игры с ID 16583.
+2025-05-31 21:20:03 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\india\india — 16583.png
+2025-05-31 21:20:07 - INFO - Открыта игра с ID 16610 в регионе india
+2025-05-31 21:20:07 - INFO - Модалка закрыта для игры с ID 16610.
+2025-05-31 21:20:38 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\india\india — 16610.png
+2025-05-31 21:20:41 - INFO - Открыта игра с ID 16580 в регионе india
+2025-05-31 21:20:41 - INFO - Модалка закрыта для игры с ID 16580.
+2025-05-31 21:21:12 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\india\india — 16580.png
+2025-05-31 21:21:15 - INFO - Открыта игра с ID 16584 в регионе india
+2025-05-31 21:21:15 - INFO - Модалка закрыта для игры с ID 16584.
+2025-05-31 21:21:46 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\india\india — 16584.png
+2025-05-31 21:21:49 - INFO - Открыта игра с ID 16563 в регионе india
+2025-05-31 21:21:49 - INFO - Модалка закрыта для игры с ID 16563.
+2025-05-31 21:22:20 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\india\india — 16563.png
+2025-05-31 21:22:23 - INFO - Открыта игра с ID 16528 в регионе india
+2025-05-31 21:22:24 - INFO - Модалка закрыта для игры с ID 16528.
+2025-05-31 21:22:54 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\india\india — 16528.png
+2025-05-31 21:22:57 - INFO - Открыта игра с ID 16558 в регионе india
+2025-05-31 21:22:58 - INFO - Модалка закрыта для игры с ID 16558.
+2025-05-31 21:23:28 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\india\india — 16558.png
+2025-05-31 21:23:31 - INFO - Открыта игра с ID 16532 в регионе india
+2025-05-31 21:23:32 - INFO - Модалка закрыта для игры с ID 16532.
+2025-05-31 21:24:02 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\india\india — 16532.png
+2025-05-31 21:24:06 - INFO - Открыта игра с ID 16582 в регионе india
+2025-05-31 21:24:06 - INFO - Модалка закрыта для игры с ID 16582.
+2025-05-31 21:24:37 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\india\india — 16582.png
+2025-05-31 21:24:40 - INFO - Открыта игра с ID 16526 в регионе india
+2025-05-31 21:24:40 - INFO - Модалка закрыта для игры с ID 16526.
+2025-05-31 21:25:11 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\india\india — 16526.png
+2025-05-31 21:25:23 - INFO - Создана папка для скриншотов: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\columbia
+2025-05-31 21:25:23 - INFO - ====== WebDriver manager ======
+2025-05-31 21:25:24 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-31 21:25:25 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-31 21:25:26 - INFO - Driver [C:\Users\Nikita\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-31 21:25:27 - INFO - Запущен браузер в мобильном режиме (iPhone 12 Pro)
+2025-05-31 21:26:11 - INFO - Открыта игра с ID 14353 в регионе columbia
+2025-05-31 21:26:11 - INFO - Модалка закрыта для игры с ID 14353.
+2025-05-31 21:26:42 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\columbia\columbia — 14353.png
+2025-05-31 21:26:46 - INFO - Открыта игра с ID 1 в регионе columbia
+2025-05-31 21:26:46 - INFO - Модалка закрыта для игры с ID 1.
+2025-05-31 21:27:16 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\columbia\columbia — 1.png
+2025-05-31 21:27:20 - INFO - Открыта игра с ID 8590 в регионе columbia
+2025-05-31 21:27:21 - INFO - Модалка закрыта для игры с ID 8590.
+2025-05-31 21:27:51 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\columbia\columbia — 8590.png
+2025-05-31 21:27:55 - INFO - Открыта игра с ID 3513 в регионе columbia
+2025-05-31 21:27:56 - INFO - Модалка закрыта для игры с ID 3513.
+2025-05-31 21:28:26 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\columbia\columbia — 3513.png
+2025-05-31 21:28:30 - INFO - Открыта игра с ID 8596 в регионе columbia
+2025-05-31 21:28:30 - INFO - Модалка закрыта для игры с ID 8596.
+2025-05-31 21:29:00 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\columbia\columbia — 8596.png
+2025-05-31 21:29:05 - INFO - Открыта игра с ID 8584 в регионе columbia
+2025-05-31 21:29:05 - INFO - Модалка закрыта для игры с ID 8584.
+2025-05-31 21:29:35 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\columbia\columbia — 8584.png
+2025-05-31 21:29:40 - INFO - Открыта игра с ID 8589 в регионе columbia
+2025-05-31 21:29:40 - INFO - Модалка закрыта для игры с ID 8589.
+2025-05-31 21:30:10 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\columbia\columbia — 8589.png
+2025-05-31 21:30:14 - INFO - Открыта игра с ID 14641 в регионе columbia
+2025-05-31 21:30:15 - INFO - Модалка закрыта для игры с ID 14641.
+2025-05-31 21:30:45 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\columbia\columbia — 14641.png
+2025-05-31 21:30:49 - INFO - Открыта игра с ID 8591 в регионе columbia
+2025-05-31 21:30:49 - INFO - Модалка закрыта для игры с ID 8591.
+2025-05-31 21:31:19 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\columbia\columbia — 8591.png
+2025-05-31 21:31:24 - INFO - Открыта игра с ID 8594 в регионе columbia
+2025-05-31 21:31:24 - INFO - Модалка закрыта для игры с ID 8594.
+2025-05-31 21:31:55 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\columbia\columbia — 8594.png
+2025-05-31 21:31:59 - INFO - Открыта игра с ID 8583 в регионе columbia
+2025-05-31 21:31:59 - INFO - Модалка закрыта для игры с ID 8583.
+2025-05-31 21:32:29 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\columbia\columbia — 8583.png
+2025-05-31 21:32:34 - INFO - Открыта игра с ID 14428 в регионе columbia
+2025-05-31 21:32:35 - INFO - Модалка закрыта для игры с ID 14428.
+2025-05-31 21:33:05 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\columbia\columbia — 14428.png
+2025-05-31 21:33:18 - INFO - Создана папка для скриншотов: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\brazil
+2025-05-31 21:33:18 - INFO - ====== WebDriver manager ======
+2025-05-31 21:33:19 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-31 21:33:23 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-31 21:33:24 - INFO - Driver [C:\Users\Nikita\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-31 21:33:26 - INFO - Запущен браузер в мобильном режиме (iPhone 12 Pro)
+2025-05-31 21:34:10 - INFO - Открыта игра с ID 1 в регионе brazil
+2025-05-31 21:34:11 - INFO - Модалка закрыта для игры с ID 1.
+2025-05-31 21:34:41 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\brazil\brazil — 1.png
+2025-05-31 21:34:45 - INFO - Открыта игра с ID 17611 в регионе brazil
+2025-05-31 21:34:45 - INFO - Модалка закрыта для игры с ID 17611.
+2025-05-31 21:35:15 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\brazil\brazil — 17611.png
+2025-05-31 21:35:19 - INFO - Открыта игра с ID 8586 в регионе brazil
+2025-05-31 21:35:19 - INFO - Модалка закрыта для игры с ID 8586.
+2025-05-31 21:35:50 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\brazil\brazil — 8586.png
+2025-05-31 21:36:07 - INFO - Открыта игра с ID 17568 в регионе brazil
+2025-05-31 21:36:07 - INFO - Модалка закрыта для игры с ID 17568.
+2025-05-31 21:36:37 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\brazil\brazil — 17568.png
+2025-05-31 21:36:42 - INFO - Открыта игра с ID 8596 в регионе brazil
+2025-05-31 21:36:42 - INFO - Модалка закрыта для игры с ID 8596.
+2025-05-31 21:37:12 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\brazil\brazil — 8596.png
+2025-05-31 21:37:34 - INFO - Открыта игра с ID 17567 в регионе brazil
+2025-05-31 21:37:34 - INFO - Модалка закрыта для игры с ID 17567.
+2025-05-31 21:38:05 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\brazil\brazil — 17567.png
+2025-05-31 21:38:09 - INFO - Открыта игра с ID 14641 в регионе brazil
+2025-05-31 21:38:09 - INFO - Модалка закрыта для игры с ID 14641.
+2025-05-31 21:38:39 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\brazil\brazil — 14641.png
+2025-05-31 21:38:43 - INFO - Открыта игра с ID 17608 в регионе brazil
+2025-05-31 21:38:43 - INFO - Модалка закрыта для игры с ID 17608.
+2025-05-31 21:39:12 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\brazil\brazil — 17608.png
+2025-05-31 21:39:17 - INFO - Открыта игра с ID 8583 в регионе brazil
+2025-05-31 21:39:17 - INFO - Модалка закрыта для игры с ID 8583.
+2025-05-31 21:39:47 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\brazil\brazil — 8583.png
+2025-05-31 21:39:53 - INFO - Открыта игра с ID 8594 в регионе brazil
+2025-05-31 21:39:53 - INFO - Модалка закрыта для игры с ID 8594.
+2025-05-31 21:40:23 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\brazil\brazil — 8594.png
+2025-05-31 21:40:27 - INFO - Открыта игра с ID 5783 в регионе brazil
+2025-05-31 21:40:28 - INFO - Модалка закрыта для игры с ID 5783.
+2025-05-31 21:40:58 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\brazil\brazil — 5783.png
+2025-05-31 21:41:02 - INFO - Открыта игра с ID 15245 в регионе brazil
+2025-05-31 21:41:02 - INFO - Модалка закрыта для игры с ID 15245.
+2025-05-31 21:41:33 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\brazil\brazil — 15245.png
+2025-05-31 21:41:38 - INFO - Открыта игра с ID 8082 в регионе brazil
+2025-05-31 21:41:39 - INFO - Модалка закрыта для игры с ID 8082.
+2025-05-31 21:42:09 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\brazil\brazil — 8082.png
+2025-05-31 21:42:13 - INFO - Открыта игра с ID 8081 в регионе brazil
+2025-05-31 21:42:13 - INFO - Модалка закрыта для игры с ID 8081.
+2025-05-31 21:42:43 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\brazil\brazil — 8081.png
+2025-05-31 21:42:47 - INFO - Открыта игра с ID 8135 в регионе brazil
+2025-05-31 21:42:49 - INFO - Модалка закрыта для игры с ID 8135.
+2025-05-31 21:43:19 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\brazil\brazil — 8135.png
+2025-05-31 21:43:23 - INFO - Открыта игра с ID 2412 в регионе brazil
+2025-05-31 21:43:24 - INFO - Модалка закрыта для игры с ID 2412.
+2025-05-31 21:43:54 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\brazil\brazil — 2412.png
+2025-05-31 21:43:59 - INFO - Открыта игра с ID 2869 в регионе brazil
+2025-05-31 21:44:00 - INFO - Модалка закрыта для игры с ID 2869.
+2025-05-31 21:44:30 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\brazil\brazil — 2869.png
+2025-05-31 21:44:35 - INFO - Открыта игра с ID 2870 в регионе brazil
+2025-05-31 21:44:35 - INFO - Модалка закрыта для игры с ID 2870.
+2025-05-31 21:45:05 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\brazil\brazil — 2870.png
+2025-05-31 21:45:11 - INFO - Открыта игра с ID 7920 в регионе brazil
+2025-05-31 21:45:11 - INFO - Модалка закрыта для игры с ID 7920.
+2025-05-31 21:45:41 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\brazil\brazil — 7920.png
+2025-05-31 21:45:45 - INFO - Открыта игра с ID 7948 в регионе brazil
+2025-05-31 21:45:45 - INFO - Модалка закрыта для игры с ID 7948.
+2025-05-31 21:46:15 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\brazil\brazil — 7948.png
+2025-05-31 21:46:19 - INFO - Открыта игра с ID 7934 в регионе brazil
+2025-05-31 21:46:19 - INFO - Модалка закрыта для игры с ID 7934.
+2025-05-31 21:46:50 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\brazil\brazil — 7934.png
+2025-05-31 21:46:53 - INFO - Открыта игра с ID 7944 в регионе brazil
+2025-05-31 21:46:54 - INFO - Модалка закрыта для игры с ID 7944.
+2025-05-31 21:47:24 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\brazil\brazil — 7944.png
+2025-05-31 21:47:28 - INFO - Открыта игра с ID 8323 в регионе brazil
+2025-05-31 21:47:28 - INFO - Модалка закрыта для игры с ID 8323.
+2025-05-31 21:47:59 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\brazil\brazil — 8323.png
+2025-05-31 21:48:05 - INFO - Открыта игра с ID 8248 в регионе brazil
+2025-05-31 21:48:05 - INFO - Модалка закрыта для игры с ID 8248.
+2025-05-31 21:48:36 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\brazil\brazil — 8248.png
+2025-05-31 21:48:48 - INFO - Создана папка для скриншотов: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\egipt
+2025-05-31 21:48:48 - INFO - ====== WebDriver manager ======
+2025-05-31 21:48:49 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-31 21:48:50 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-31 21:48:50 - INFO - Driver [C:\Users\Nikita\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-31 21:48:51 - INFO - Запущен браузер в мобильном режиме (iPhone 12 Pro)
+2025-05-31 21:49:31 - INFO - Открыта игра с ID 1 в регионе egipt
+2025-05-31 21:49:31 - INFO - Модалка закрыта для игры с ID 1.
+2025-05-31 21:50:01 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\egipt\egipt — 1.png
+2025-05-31 21:50:05 - INFO - Открыта игра с ID 8583 в регионе egipt
+2025-05-31 21:50:05 - INFO - Модалка закрыта для игры с ID 8583.
+2025-05-31 21:50:35 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\egipt\egipt — 8583.png
+2025-05-31 21:50:39 - INFO - Открыта игра с ID 3868 в регионе egipt
+2025-05-31 21:50:39 - INFO - Модалка закрыта для игры с ID 3868.
+2025-05-31 21:51:10 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\egipt\egipt — 3868.png
+2025-05-31 21:51:13 - INFO - Открыта игра с ID 14553 в регионе egipt
+2025-05-31 21:51:13 - INFO - Модалка закрыта для игры с ID 14553.
+2025-05-31 21:51:44 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\egipt\egipt — 14553.png
+2025-05-31 21:51:47 - INFO - Открыта игра с ID 8580 в регионе egipt
+2025-05-31 21:51:47 - INFO - Модалка закрыта для игры с ID 8580.
+2025-05-31 21:52:18 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\egipt\egipt — 8580.png
+2025-05-31 21:52:21 - INFO - Открыта игра с ID 6655 в регионе egipt
+2025-05-31 21:52:22 - INFO - Модалка закрыта для игры с ID 6655.
+2025-05-31 21:52:52 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\egipt\egipt — 6655.png
+2025-05-31 21:52:55 - INFO - Открыта игра с ID 14521 в регионе egipt
+2025-05-31 21:52:55 - INFO - Модалка закрыта для игры с ID 14521.
+2025-05-31 21:53:26 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\egipt\egipt — 14521.png
+2025-05-31 21:53:30 - INFO - Открыта игра с ID 2324 в регионе egipt
+2025-05-31 21:53:30 - INFO - Модалка закрыта для игры с ID 2324.
+2025-05-31 21:54:00 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\egipt\egipt — 2324.png
+2025-05-31 21:54:04 - INFO - Открыта игра с ID 14523 в регионе egipt
+2025-05-31 21:54:04 - INFO - Модалка закрыта для игры с ID 14523.
+2025-05-31 21:54:35 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\egipt\egipt — 14523.png
+2025-05-31 21:54:38 - INFO - Открыта игра с ID 3892 в регионе egipt
+2025-05-31 21:54:38 - INFO - Модалка закрыта для игры с ID 3892.
+2025-05-31 21:55:09 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\egipt\egipt — 3892.png
+2025-05-31 21:55:13 - INFO - Открыта игра с ID 14529 в регионе egipt
+2025-05-31 21:55:13 - INFO - Модалка закрыта для игры с ID 14529.
+2025-05-31 21:55:43 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\egipt\egipt — 14529.png
+2025-05-31 21:55:47 - INFO - Открыта игра с ID 2 в регионе egipt
+2025-05-31 21:55:47 - INFO - Модалка закрыта для игры с ID 2.
+2025-05-31 21:56:18 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\egipt\egipt — 2.png
+2025-05-31 21:56:21 - INFO - Открыта игра с ID 8082 в регионе egipt
+2025-05-31 21:56:21 - INFO - Модалка закрыта для игры с ID 8082.
+2025-05-31 21:56:52 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\egipt\egipt — 8082.png
+2025-05-31 21:56:55 - INFO - Открыта игра с ID 8081 в регионе egipt
+2025-05-31 21:56:55 - INFO - Модалка закрыта для игры с ID 8081.
+2025-05-31 21:57:26 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\egipt\egipt — 8081.png
+2025-05-31 21:57:29 - INFO - Открыта игра с ID 8135 в регионе egipt
+2025-05-31 21:57:29 - INFO - Модалка закрыта для игры с ID 8135.
+2025-05-31 21:58:00 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\egipt\egipt — 8135.png
+2025-05-31 21:58:03 - INFO - Открыта игра с ID 7920 в регионе egipt
+2025-05-31 21:58:04 - INFO - Модалка закрыта для игры с ID 7920.
+2025-05-31 21:58:34 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\egipt\egipt — 7920.png
+2025-05-31 21:58:38 - INFO - Открыта игра с ID 7948 в регионе egipt
+2025-05-31 21:58:38 - INFO - Модалка закрыта для игры с ID 7948.
+2025-05-31 21:59:08 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\egipt\egipt — 7948.png
+2025-05-31 21:59:12 - INFO - Открыта игра с ID 7934 в регионе egipt
+2025-05-31 21:59:12 - INFO - Модалка закрыта для игры с ID 7934.
+2025-05-31 21:59:43 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\egipt\egipt — 7934.png
+2025-05-31 21:59:46 - INFO - Открыта игра с ID 7944 в регионе egipt
+2025-05-31 21:59:46 - INFO - Модалка закрыта для игры с ID 7944.
+2025-05-31 22:00:17 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\egipt\egipt — 7944.png
+2025-05-31 22:00:21 - INFO - Открыта игра с ID 8323 в регионе egipt
+2025-05-31 22:00:21 - INFO - Модалка закрыта для игры с ID 8323.
+2025-05-31 22:00:51 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\egipt\egipt — 8323.png
+2025-05-31 22:00:55 - INFO - Открыта игра с ID 8248 в регионе egipt
+2025-05-31 22:00:55 - INFO - Модалка закрыта для игры с ID 8248.
+2025-05-31 22:01:25 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\egipt\egipt — 8248.png
+2025-05-31 22:01:29 - INFO - Открыта игра с ID 8140 в регионе egipt
+2025-05-31 22:01:29 - INFO - Модалка закрыта для игры с ID 8140.
+2025-05-31 22:02:00 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\egipt\egipt — 8140.png
+2025-05-31 22:02:03 - INFO - Открыта игра с ID 8127 в регионе egipt
+2025-05-31 22:02:03 - INFO - Модалка закрыта для игры с ID 8127.
+2025-05-31 22:02:34 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\egipt\egipt — 8127.png
+2025-05-31 22:02:37 - INFO - Открыта игра с ID 7930 в регионе egipt
+2025-05-31 22:02:37 - INFO - Модалка закрыта для игры с ID 7930.
+2025-05-31 22:03:08 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\egipt\egipt — 7930.png
+2025-05-31 22:03:21 - INFO - Создана папка для скриншотов: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\azerbaijan
+2025-05-31 22:03:21 - INFO - ====== WebDriver manager ======
+2025-05-31 22:03:22 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-31 22:03:22 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-31 22:03:22 - INFO - Driver [C:\Users\Nikita\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-31 22:03:23 - INFO - Запущен браузер в мобильном режиме (iPhone 12 Pro)
+2025-05-31 22:04:03 - INFO - Открыта игра с ID 1 в регионе azerbaijan
+2025-05-31 22:04:04 - INFO - Модалка закрыта для игры с ID 1.
+2025-05-31 22:04:34 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\azerbaijan\azerbaijan — 1.png
+2025-05-31 22:04:37 - INFO - Открыта игра с ID 15246 в регионе azerbaijan
+2025-05-31 22:04:38 - INFO - Модалка закрыта для игры с ID 15246.
+2025-05-31 22:05:08 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\azerbaijan\azerbaijan — 15246.png
+2025-05-31 22:05:11 - INFO - Открыта игра с ID 7157 в регионе azerbaijan
+2025-05-31 22:05:12 - INFO - Модалка закрыта для игры с ID 7157.
+2025-05-31 22:05:42 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\azerbaijan\azerbaijan — 7157.png
+2025-05-31 22:05:46 - INFO - Открыта игра с ID 3851 в регионе azerbaijan
+2025-05-31 22:05:46 - INFO - Модалка закрыта для игры с ID 3851.
+2025-05-31 22:06:16 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\azerbaijan\azerbaijan — 3851.png
+2025-05-31 22:06:20 - INFO - Открыта игра с ID 9412 в регионе azerbaijan
+2025-05-31 22:06:20 - INFO - Модалка закрыта для игры с ID 9412.
+2025-05-31 22:06:51 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\azerbaijan\azerbaijan — 9412.png
+2025-05-31 22:06:54 - INFO - Открыта игра с ID 9405 в регионе azerbaijan
+2025-05-31 22:06:54 - INFO - Модалка закрыта для игры с ID 9405.
+2025-05-31 22:07:25 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\azerbaijan\azerbaijan — 9405.png
+2025-05-31 22:07:29 - INFO - Открыта игра с ID 7806 в регионе azerbaijan
+2025-05-31 22:07:29 - INFO - Модалка закрыта для игры с ID 7806.
+2025-05-31 22:08:00 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\azerbaijan\azerbaijan — 7806.png
+2025-05-31 22:08:03 - INFO - Открыта игра с ID 4247 в регионе azerbaijan
+2025-05-31 22:08:04 - INFO - Модалка закрыта для игры с ID 4247.
+2025-05-31 22:08:34 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\azerbaijan\azerbaijan — 4247.png
+2025-05-31 22:08:38 - INFO - Открыта игра с ID 6051 в регионе azerbaijan
+2025-05-31 22:08:38 - INFO - Модалка закрыта для игры с ID 6051.
+2025-05-31 22:09:08 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\azerbaijan\azerbaijan — 6051.png
+2025-05-31 22:09:12 - INFO - Открыта игра с ID 11105 в регионе azerbaijan
+2025-05-31 22:09:12 - INFO - Модалка закрыта для игры с ID 11105.
+2025-05-31 22:09:43 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\azerbaijan\azerbaijan — 11105.png
+2025-05-31 22:09:46 - INFO - Открыта игра с ID 8802 в регионе azerbaijan
+2025-05-31 22:09:46 - INFO - Модалка закрыта для игры с ID 8802.
+2025-05-31 22:10:17 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\azerbaijan\azerbaijan — 8802.png
+2025-05-31 22:10:20 - INFO - Открыта игра с ID 14429 в регионе azerbaijan
+2025-05-31 22:10:21 - INFO - Модалка закрыта для игры с ID 14429.
+2025-05-31 22:10:51 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\azerbaijan\azerbaijan — 14429.png
+2025-05-31 22:10:55 - INFO - Открыта игра с ID 8082 в регионе azerbaijan
+2025-05-31 22:10:55 - INFO - Модалка закрыта для игры с ID 8082.
+2025-05-31 22:11:25 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\azerbaijan\azerbaijan — 8082.png
+2025-05-31 22:11:29 - INFO - Открыта игра с ID 8081 в регионе azerbaijan
+2025-05-31 22:11:29 - INFO - Модалка закрыта для игры с ID 8081.
+2025-05-31 22:11:59 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\azerbaijan\azerbaijan — 8081.png
+2025-05-31 22:12:03 - INFO - Открыта игра с ID 8135 в регионе azerbaijan
+2025-05-31 22:12:03 - INFO - Модалка закрыта для игры с ID 8135.
+2025-05-31 22:12:34 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\azerbaijan\azerbaijan — 8135.png
+2025-05-31 22:12:37 - INFO - Открыта игра с ID 2412 в регионе azerbaijan
+2025-05-31 22:12:37 - INFO - Модалка закрыта для игры с ID 2412.
+2025-05-31 22:13:08 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\azerbaijan\azerbaijan — 2412.png
+2025-05-31 22:13:11 - INFO - Открыта игра с ID 2869 в регионе azerbaijan
+2025-05-31 22:13:11 - INFO - Модалка закрыта для игры с ID 2869.
+2025-05-31 22:13:42 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\azerbaijan\azerbaijan — 2869.png
+2025-05-31 22:13:45 - INFO - Открыта игра с ID 2870 в регионе azerbaijan
+2025-05-31 22:13:45 - INFO - Модалка закрыта для игры с ID 2870.
+2025-05-31 22:14:16 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\azerbaijan\azerbaijan — 2870.png
+2025-05-31 22:14:19 - INFO - Открыта игра с ID 7920 в регионе azerbaijan
+2025-05-31 22:14:19 - INFO - Модалка закрыта для игры с ID 7920.
+2025-05-31 22:14:50 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\azerbaijan\azerbaijan — 7920.png
+2025-05-31 22:14:54 - INFO - Открыта игра с ID 7948 в регионе azerbaijan
+2025-05-31 22:14:54 - INFO - Модалка закрыта для игры с ID 7948.
+2025-05-31 22:15:24 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\azerbaijan\azerbaijan — 7948.png
+2025-05-31 22:15:28 - INFO - Открыта игра с ID 7934 в регионе azerbaijan
+2025-05-31 22:15:28 - INFO - Модалка закрыта для игры с ID 7934.
+2025-05-31 22:15:59 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\azerbaijan\azerbaijan — 7934.png
+2025-05-31 22:16:02 - INFO - Открыта игра с ID 7944 в регионе azerbaijan
+2025-05-31 22:16:02 - INFO - Модалка закрыта для игры с ID 7944.
+2025-05-31 22:16:33 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\azerbaijan\azerbaijan — 7944.png
+2025-05-31 22:16:36 - INFO - Открыта игра с ID 8323 в регионе azerbaijan
+2025-05-31 22:16:36 - INFO - Модалка закрыта для игры с ID 8323.
+2025-05-31 22:17:07 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\azerbaijan\azerbaijan — 8323.png
+2025-05-31 22:17:11 - INFO - Открыта игра с ID 8248 в регионе azerbaijan
+2025-05-31 22:17:11 - INFO - Модалка закрыта для игры с ID 8248.
+2025-05-31 22:17:41 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\azerbaijan\azerbaijan — 8248.png
+2025-05-31 22:17:54 - INFO - Создана папка для скриншотов: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\bangladesh
+2025-05-31 22:17:54 - INFO - ====== WebDriver manager ======
+2025-05-31 22:17:55 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-31 22:17:56 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-31 22:17:56 - INFO - Driver [C:\Users\Nikita\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-31 22:17:58 - INFO - Запущен браузер в мобильном режиме (iPhone 12 Pro)
+2025-05-31 22:18:40 - INFO - Открыта игра с ID 1 в регионе bangladesh
+2025-05-31 22:18:40 - INFO - Модалка закрыта для игры с ID 1.
+2025-05-31 22:19:11 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\bangladesh\bangladesh — 1.png
+2025-05-31 22:19:15 - INFO - Открыта игра с ID 17611 в регионе bangladesh
+2025-05-31 22:19:15 - INFO - Модалка закрыта для игры с ID 17611.
+2025-05-31 22:19:45 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\bangladesh\bangladesh — 17611.png
+2025-05-31 22:19:49 - INFO - Открыта игра с ID 8586 в регионе bangladesh
+2025-05-31 22:19:49 - INFO - Модалка закрыта для игры с ID 8586.
+2025-05-31 22:20:19 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\bangladesh\bangladesh — 8586.png
+2025-05-31 22:20:24 - INFO - Открыта игра с ID 17568 в регионе bangladesh
+2025-05-31 22:20:24 - INFO - Модалка закрыта для игры с ID 17568.
+2025-05-31 22:20:54 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\bangladesh\bangladesh — 17568.png
+2025-05-31 22:20:58 - INFO - Открыта игра с ID 8596 в регионе bangladesh
+2025-05-31 22:20:58 - INFO - Модалка закрыта для игры с ID 8596.
+2025-05-31 22:21:28 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\bangladesh\bangladesh — 8596.png
+2025-05-31 22:21:33 - INFO - Открыта игра с ID 17567 в регионе bangladesh
+2025-05-31 22:21:33 - INFO - Модалка закрыта для игры с ID 17567.
+2025-05-31 22:22:03 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\bangladesh\bangladesh — 17567.png
+2025-05-31 22:22:08 - INFO - Открыта игра с ID 14641 в регионе bangladesh
+2025-05-31 22:22:08 - INFO - Модалка закрыта для игры с ID 14641.
+2025-05-31 22:22:38 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\bangladesh\bangladesh — 14641.png
+2025-05-31 22:22:42 - INFO - Открыта игра с ID 17608 в регионе bangladesh
+2025-05-31 22:22:42 - INFO - Модалка закрыта для игры с ID 17608.
+2025-05-31 22:23:13 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\bangladesh\bangladesh — 17608.png
+2025-05-31 22:23:16 - INFO - Открыта игра с ID 8583 в регионе bangladesh
+2025-05-31 22:23:17 - INFO - Модалка закрыта для игры с ID 8583.
+2025-05-31 22:23:47 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\bangladesh\bangladesh — 8583.png
+2025-05-31 22:23:51 - INFO - Открыта игра с ID 8594 в регионе bangladesh
+2025-05-31 22:23:52 - INFO - Модалка закрыта для игры с ID 8594.
+2025-05-31 22:24:22 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\bangladesh\bangladesh — 8594.png
+2025-05-31 22:24:26 - INFO - Открыта игра с ID 15245 в регионе bangladesh
+2025-05-31 22:24:26 - INFO - Модалка закрыта для игры с ID 15245.
+2025-05-31 22:24:57 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\bangladesh\bangladesh — 15245.png
+2025-05-31 22:25:01 - INFO - Открыта игра с ID 14428 в регионе bangladesh
+2025-05-31 22:25:02 - INFO - Модалка закрыта для игры с ID 14428.
+2025-05-31 22:25:32 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\bangladesh\bangladesh — 14428.png
+2025-05-31 22:25:45 - INFO - Создана папка для скриншотов: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\pery
+2025-05-31 22:25:45 - INFO - ====== WebDriver manager ======
+2025-05-31 22:25:46 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-31 22:25:47 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-31 22:25:47 - INFO - Driver [C:\Users\Nikita\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-31 22:25:49 - INFO - Запущен браузер в мобильном режиме (iPhone 12 Pro)
+2025-05-31 22:26:33 - INFO - Открыта игра с ID 1 в регионе pery
+2025-05-31 22:26:33 - INFO - Модалка закрыта для игры с ID 1.
+2025-05-31 22:27:04 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\pery\pery — 1.png
+2025-05-31 22:27:08 - INFO - Открыта игра с ID 8583 в регионе pery
+2025-05-31 22:27:08 - INFO - Модалка закрыта для игры с ID 8583.
+2025-05-31 22:27:38 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\pery\pery — 8583.png
+2025-05-31 22:27:43 - INFO - Открыта игра с ID 8590 в регионе pery
+2025-05-31 22:27:43 - INFO - Модалка закрыта для игры с ID 8590.
+2025-05-31 22:28:13 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\pery\pery — 8590.png
+2025-05-31 22:28:17 - INFO - Открыта игра с ID 8596 в регионе pery
+2025-05-31 22:28:17 - INFO - Модалка закрыта для игры с ID 8596.
+2025-05-31 22:28:48 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\pery\pery — 8596.png
+2025-05-31 22:28:52 - INFO - Открыта игра с ID 1360 в регионе pery
+2025-05-31 22:28:52 - INFO - Модалка закрыта для игры с ID 1360.
+2025-05-31 22:29:23 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\pery\pery — 1360.png
+2025-05-31 22:29:26 - INFO - Открыта игра с ID 3851 в регионе pery
+2025-05-31 22:29:27 - INFO - Модалка закрыта для игры с ID 3851.
+2025-05-31 22:29:57 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\pery\pery — 3851.png
+2025-05-31 22:30:02 - INFO - Открыта игра с ID 14428 в регионе pery
+2025-05-31 22:30:02 - INFO - Модалка закрыта для игры с ID 14428.
+2025-05-31 22:30:32 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\pery\pery — 14428.png
+2025-05-31 22:30:37 - INFO - Открыта игра с ID 8593 в регионе pery
+2025-05-31 22:30:37 - INFO - Модалка закрыта для игры с ID 8593.
+2025-05-31 22:31:08 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\pery\pery — 8593.png
+2025-05-31 22:31:12 - INFO - Открыта игра с ID 2 в регионе pery
+2025-05-31 22:31:15 - INFO - Модалка закрыта для игры с ID 2.
+2025-05-31 22:31:45 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\pery\pery — 2.png
+2025-05-31 22:31:49 - INFO - Открыта игра с ID 5 в регионе pery
+2025-05-31 22:31:50 - INFO - Модалка закрыта для игры с ID 5.
+2025-05-31 22:32:20 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\pery\pery — 5.png
+2025-05-31 22:32:25 - INFO - Открыта игра с ID 7 в регионе pery
+2025-05-31 22:32:25 - INFO - Модалка закрыта для игры с ID 7.
+2025-05-31 22:32:55 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\pery\pery — 7.png
+2025-05-31 22:33:01 - INFO - Открыта игра с ID 380 в регионе pery
+2025-05-31 22:33:01 - INFO - Модалка закрыта для игры с ID 380.
+2025-05-31 22:33:31 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\pery\pery — 380.png
+2025-05-31 22:33:36 - INFO - Открыта игра с ID 1334 в регионе pery
+2025-05-31 22:33:36 - INFO - Модалка закрыта для игры с ID 1334.
+2025-05-31 22:34:07 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\pery\pery — 1334.png
+2025-05-31 22:34:11 - INFO - Открыта игра с ID 1339 в регионе pery
+2025-05-31 22:34:11 - INFO - Модалка закрыта для игры с ID 1339.
+2025-05-31 22:34:42 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\pery\pery — 1339.png
+2025-05-31 22:34:47 - INFO - Открыта игра с ID 1341 в регионе pery
+2025-05-31 22:34:47 - INFO - Модалка закрыта для игры с ID 1341.
+2025-05-31 22:35:17 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\pery\pery — 1341.png
+2025-05-31 22:35:21 - INFO - Открыта игра с ID 2412 в регионе pery
+2025-05-31 22:35:21 - INFO - Модалка закрыта для игры с ID 2412.
+2025-05-31 22:35:52 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\pery\pery — 2412.png
+2025-05-31 22:35:56 - INFO - Открыта игра с ID 2869 в регионе pery
+2025-05-31 22:35:56 - INFO - Модалка закрыта для игры с ID 2869.
+2025-05-31 22:36:26 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\pery\pery — 2869.png
+2025-05-31 22:36:31 - INFO - Открыта игра с ID 2870 в регионе pery
+2025-05-31 22:36:31 - INFO - Модалка закрыта для игры с ID 2870.
+2025-05-31 22:37:01 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\pery\pery — 2870.png
+2025-05-31 22:37:14 - INFO - Создана папка для скриншотов: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\nigerya
+2025-05-31 22:37:14 - INFO - ====== WebDriver manager ======
+2025-05-31 22:37:15 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-31 22:37:16 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-31 22:37:16 - INFO - Driver [C:\Users\Nikita\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-31 22:37:17 - INFO - Запущен браузер в мобильном режиме (iPhone 12 Pro)
+2025-05-31 22:38:10 - INFO - Открыта игра с ID 1 в регионе nigerya
+2025-05-31 22:38:10 - INFO - Модалка закрыта для игры с ID 1.
+2025-05-31 22:38:40 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\nigerya\nigerya — 1.png
+2025-05-31 22:38:45 - INFO - Открыта игра с ID 8583 в регионе nigerya
+2025-05-31 22:38:45 - INFO - Модалка закрыта для игры с ID 8583.
+2025-05-31 22:39:16 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\nigerya\nigerya — 8583.png
+2025-05-31 22:40:00 - INFO - Открыта игра с ID 13038 в регионе nigerya
+2025-05-31 22:40:00 - INFO - Модалка закрыта для игры с ID 13038.
+2025-05-31 22:40:30 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\nigerya\nigerya — 13038.png
+2025-05-31 22:40:36 - INFO - Открыта игра с ID 11046 в регионе nigerya
+2025-05-31 22:40:36 - INFO - Модалка закрыта для игры с ID 11046.
+2025-05-31 22:41:07 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\nigerya\nigerya — 11046.png
+2025-05-31 22:41:10 - INFO - Открыта игра с ID 12441 в регионе nigerya
+2025-05-31 22:41:10 - INFO - Модалка закрыта для игры с ID 12441.
+2025-05-31 22:41:41 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\nigerya\nigerya — 12441.png
+2025-05-31 22:41:45 - INFO - Открыта игра с ID 5849 в регионе nigerya
+2025-05-31 22:41:55 - INFO - Модалка закрыта для игры с ID 5849.
+2025-05-31 22:42:25 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\nigerya\nigerya — 5849.png
+2025-05-31 22:42:43 - INFO - Открыта игра с ID 11798 в регионе nigerya
+2025-05-31 22:42:43 - INFO - Модалка закрыта для игры с ID 11798.
+2025-05-31 22:43:14 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\nigerya\nigerya — 11798.png
+2025-05-31 22:43:17 - INFO - Открыта игра с ID 10896 в регионе nigerya
+2025-05-31 22:43:18 - INFO - Модалка закрыта для игры с ID 10896.
+2025-05-31 22:43:48 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\nigerya\nigerya — 10896.png
+2025-05-31 22:43:52 - INFO - Открыта игра с ID 7825 в регионе nigerya
+2025-05-31 22:43:53 - INFO - Модалка закрыта для игры с ID 7825.
+2025-05-31 22:44:23 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\nigerya\nigerya — 7825.png
+2025-05-31 22:44:39 - INFO - Открыта игра с ID 5853 в регионе nigerya
+2025-05-31 22:44:39 - INFO - Модалка закрыта для игры с ID 5853.
+2025-05-31 22:45:10 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\nigerya\nigerya — 5853.png
+2025-05-31 22:45:41 - INFO - Открыта игра с ID 5161 в регионе nigerya
+2025-05-31 22:45:41 - INFO - Модалка закрыта для игры с ID 5161.
+2025-05-31 22:46:12 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\nigerya\nigerya — 5161.png
+2025-05-31 22:46:16 - INFO - Открыта игра с ID 3868 в регионе nigerya
+2025-05-31 22:46:16 - INFO - Модалка закрыта для игры с ID 3868.
+2025-05-31 22:46:47 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\nigerya\nigerya — 3868.png
+2025-05-31 22:46:51 - INFO - Открыта игра с ID 8082 в регионе nigerya
+2025-05-31 22:46:51 - INFO - Модалка закрыта для игры с ID 8082.
+2025-05-31 22:47:21 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\nigerya\nigerya — 8082.png
+2025-05-31 22:47:39 - INFO - Открыта игра с ID 8081 в регионе nigerya
+2025-05-31 22:47:39 - INFO - Модалка закрыта для игры с ID 8081.
+2025-05-31 22:48:10 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\nigerya\nigerya — 8081.png
+2025-05-31 22:48:22 - ERROR - Ошибка в GEO nigerya: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=136.0.7103.114)
+Stacktrace:
+	GetHandleVerifier [0x010CFC03+61635]
+	GetHandleVerifier [0x010CFC44+61700]
+	(No symbol) [0x00EF05D3]
+	(No symbol) [0x00EEDBE0]
+	(No symbol) [0x00EE13A8]
+	(No symbol) [0x00EE2CF0]
+	(No symbol) [0x00EE1638]
+	(No symbol) [0x00EE1193]
+	(No symbol) [0x00EE0EA1]
+	(No symbol) [0x00EDEE80]
+	(No symbol) [0x00EDF81B]
+	(No symbol) [0x00EF3FFE]
+	(No symbol) [0x00F7F217]
+	(No symbol) [0x00F5D29C]
+	(No symbol) [0x00F7E61B]
+	(No symbol) [0x00F5D096]
+	(No symbol) [0x00F2C840]
+	(No symbol) [0x00F2D6A4]
+	GetHandleVerifier [0x01354523+2701795]
+	GetHandleVerifier [0x0134FCA6+2683238]
+	GetHandleVerifier [0x0136A9EE+2793134]
+	GetHandleVerifier [0x010E68C5+155013]
+	GetHandleVerifier [0x010ECFAD+181357]
+	GetHandleVerifier [0x010D7458+92440]
+	GetHandleVerifier [0x010D7600+92864]
+	GetHandleVerifier [0x010C1FF0+5296]
+	BaseThreadInitThunk [0x7658FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778582AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7785827E+238]
+
+2025-05-31 22:48:34 - INFO - Создана папка для скриншотов: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\venesyela
+2025-05-31 22:48:34 - INFO - ====== WebDriver manager ======
+2025-05-31 22:48:35 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-31 22:48:36 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-31 22:48:37 - INFO - Driver [C:\Users\Nikita\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-31 22:48:38 - INFO - Запущен браузер в мобильном режиме (iPhone 12 Pro)
+2025-05-31 22:49:22 - INFO - Открыта игра с ID 1 в регионе venesyela
+2025-05-31 22:49:23 - INFO - Модалка закрыта для игры с ID 1.
+2025-05-31 22:49:53 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\venesyela\venesyela — 1.png
+2025-05-31 22:49:57 - INFO - Открыта игра с ID 17611 в регионе venesyela
+2025-05-31 22:49:58 - INFO - Модалка закрыта для игры с ID 17611.
+2025-05-31 22:50:28 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\venesyela\venesyela — 17611.png
+2025-05-31 22:50:32 - INFO - Открыта игра с ID 8586 в регионе venesyela
+2025-05-31 22:50:32 - INFO - Модалка закрыта для игры с ID 8586.
+2025-05-31 22:51:02 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\venesyela\venesyela — 8586.png
+2025-05-31 22:51:06 - INFO - Открыта игра с ID 17568 в регионе venesyela
+2025-05-31 22:51:06 - INFO - Модалка закрыта для игры с ID 17568.
+2025-05-31 22:51:37 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\venesyela\venesyela — 17568.png
+2025-05-31 22:51:41 - INFO - Открыта игра с ID 8596 в регионе venesyela
+2025-05-31 22:51:41 - INFO - Модалка закрыта для игры с ID 8596.
+2025-05-31 22:52:11 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\venesyela\venesyela — 8596.png
+2025-05-31 22:52:16 - INFO - Открыта игра с ID 17567 в регионе venesyela
+2025-05-31 22:52:16 - INFO - Модалка закрыта для игры с ID 17567.
+2025-05-31 22:52:47 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\venesyela\venesyela — 17567.png
+2025-05-31 22:52:50 - INFO - Открыта игра с ID 14641 в регионе venesyela
+2025-05-31 22:52:51 - INFO - Модалка закрыта для игры с ID 14641.
+2025-05-31 22:53:21 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\venesyela\venesyela — 14641.png
+2025-05-31 22:53:25 - INFO - Открыта игра с ID 17608 в регионе venesyela
+2025-05-31 22:53:25 - INFO - Модалка закрыта для игры с ID 17608.
+2025-05-31 22:53:56 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\venesyela\venesyela — 17608.png
+2025-05-31 22:54:00 - INFO - Открыта игра с ID 8583 в регионе venesyela
+2025-05-31 22:54:00 - INFO - Модалка закрыта для игры с ID 8583.
+2025-05-31 22:54:30 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\venesyela\venesyela — 8583.png
+2025-05-31 22:54:35 - INFO - Открыта игра с ID 8594 в регионе venesyela
+2025-05-31 22:54:35 - INFO - Модалка закрыта для игры с ID 8594.
+2025-05-31 22:55:06 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\venesyela\venesyela — 8594.png
+2025-05-31 22:55:10 - INFO - Открыта игра с ID 5783 в регионе venesyela
+2025-05-31 22:55:10 - INFO - Модалка закрыта для игры с ID 5783.
+2025-05-31 22:55:40 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\venesyela\venesyela — 5783.png
+2025-05-31 22:55:45 - INFO - Открыта игра с ID 15245 в регионе venesyela
+2025-05-31 22:55:45 - INFO - Модалка закрыта для игры с ID 15245.
+2025-05-31 22:56:15 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\venesyela\venesyela — 15245.png
+2025-05-31 22:56:19 - INFO - Открыта игра с ID 8323 в регионе venesyela
+2025-05-31 22:56:19 - INFO - Модалка закрыта для игры с ID 8323.
+2025-05-31 22:56:50 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\venesyela\venesyela — 8323.png
+2025-05-31 22:56:54 - INFO - Открыта игра с ID 9892 в регионе venesyela
+2025-05-31 22:56:54 - INFO - Модалка закрыта для игры с ID 9892.
+2025-05-31 22:57:25 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\venesyela\venesyela — 9892.png
+2025-05-31 22:57:29 - INFO - Открыта игра с ID 8111 в регионе venesyela
+2025-05-31 22:57:29 - INFO - Модалка закрыта для игры с ID 8111.
+2025-05-31 22:58:00 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\venesyela\venesyela — 8111.png
+2025-05-31 22:58:05 - INFO - Открыта игра с ID 7922 в регионе venesyela
+2025-05-31 22:58:05 - INFO - Модалка закрыта для игры с ID 7922.
+2025-05-31 22:58:35 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\venesyela\venesyela — 7922.png
+2025-05-31 22:58:39 - INFO - Открыта игра с ID 8096 в регионе venesyela
+2025-05-31 22:58:39 - INFO - Модалка закрыта для игры с ID 8096.
+2025-05-31 22:59:10 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\venesyela\venesyela — 8096.png
+2025-05-31 22:59:14 - INFO - Открыта игра с ID 8031 в регионе venesyela
+2025-05-31 22:59:15 - INFO - Модалка закрыта для игры с ID 8031.
+2025-05-31 22:59:45 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\venesyela\venesyela — 8031.png
+2025-05-31 22:59:49 - INFO - Открыта игра с ID 9874 в регионе venesyela
+2025-05-31 22:59:49 - INFO - Модалка закрыта для игры с ID 9874.
+2025-05-31 23:00:20 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\venesyela\venesyela — 9874.png
+2025-05-31 23:00:24 - INFO - Открыта игра с ID 8049 в регионе venesyela
+2025-05-31 23:00:24 - INFO - Модалка закрыта для игры с ID 8049.
+2025-05-31 23:00:55 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\venesyela\venesyela — 8049.png
+2025-05-31 23:00:59 - INFO - Открыта игра с ID 8047 в регионе venesyela
+2025-05-31 23:00:59 - INFO - Модалка закрыта для игры с ID 8047.
+2025-05-31 23:01:29 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\venesyela\venesyela — 8047.png
+2025-05-31 23:01:34 - INFO - Открыта игра с ID 7976 в регионе venesyela
+2025-05-31 23:01:34 - INFO - Модалка закрыта для игры с ID 7976.
+2025-05-31 23:02:04 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\venesyela\venesyela — 7976.png
+2025-05-31 23:02:08 - INFO - Открыта игра с ID 7972 в регионе venesyela
+2025-05-31 23:02:08 - INFO - Модалка закрыта для игры с ID 7972.
+2025-05-31 23:02:39 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\venesyela\venesyela — 7972.png
+2025-05-31 23:02:43 - INFO - Открыта игра с ID 8082 в регионе venesyela
+2025-05-31 23:02:44 - INFO - Модалка закрыта для игры с ID 8082.
+2025-05-31 23:03:14 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\venesyela\venesyela — 8082.png
+2025-05-31 23:03:27 - INFO - Создана папка для скриншотов: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\mexico
+2025-05-31 23:03:27 - INFO - ====== WebDriver manager ======
+2025-05-31 23:03:28 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-31 23:03:29 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-31 23:03:29 - INFO - Driver [C:\Users\Nikita\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-31 23:03:30 - INFO - Запущен браузер в мобильном режиме (iPhone 12 Pro)
+2025-05-31 23:04:12 - INFO - Открыта игра с ID 1 в регионе mexico
+2025-05-31 23:04:13 - INFO - Модалка закрыта для игры с ID 1.
+2025-05-31 23:04:43 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\mexico\mexico — 1.png
+2025-05-31 23:04:47 - INFO - Открыта игра с ID 8583 в регионе mexico
+2025-05-31 23:04:47 - INFO - Модалка закрыта для игры с ID 8583.
+2025-05-31 23:05:17 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\mexico\mexico — 8583.png
+2025-05-31 23:05:21 - INFO - Открыта игра с ID 5783 в регионе mexico
+2025-05-31 23:05:21 - INFO - Модалка закрыта для игры с ID 5783.
+2025-05-31 23:05:52 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\mexico\mexico — 5783.png
+2025-05-31 23:05:56 - INFO - Открыта игра с ID 6655 в регионе mexico
+2025-05-31 23:05:56 - INFO - Модалка закрыта для игры с ID 6655.
+2025-05-31 23:06:27 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\mexico\mexico — 6655.png
+2025-05-31 23:06:30 - INFO - Открыта игра с ID 5797 в регионе mexico
+2025-05-31 23:06:31 - INFO - Модалка закрыта для игры с ID 5797.
+2025-05-31 23:07:01 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\mexico\mexico — 5797.png
+2025-05-31 23:07:05 - INFO - Открыта игра с ID 7157 в регионе mexico
+2025-05-31 23:07:05 - INFO - Модалка закрыта для игры с ID 7157.
+2025-05-31 23:07:35 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\mexico\mexico — 7157.png
+2025-05-31 23:07:39 - INFO - Открыта игра с ID 6776 в регионе mexico
+2025-05-31 23:07:39 - INFO - Модалка закрыта для игры с ID 6776.
+2025-05-31 23:08:10 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\mexico\mexico — 6776.png
+2025-05-31 23:08:14 - INFO - Открыта игра с ID 8596 в регионе mexico
+2025-05-31 23:08:14 - INFO - Модалка закрыта для игры с ID 8596.
+2025-05-31 23:08:44 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\mexico\mexico — 8596.png
+2025-05-31 23:08:48 - INFO - Открыта игра с ID 2 в регионе mexico
+2025-05-31 23:08:48 - INFO - Модалка закрыта для игры с ID 2.
+2025-05-31 23:09:19 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\mexico\mexico — 2.png
+2025-05-31 23:09:23 - INFO - Открыта игра с ID 5 в регионе mexico
+2025-05-31 23:09:23 - INFO - Модалка закрыта для игры с ID 5.
+2025-05-31 23:09:54 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\mexico\mexico — 5.png
+2025-05-31 23:09:57 - INFO - Открыта игра с ID 7 в регионе mexico
+2025-05-31 23:09:58 - INFO - Модалка закрыта для игры с ID 7.
+2025-05-31 23:10:28 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\mexico\mexico — 7.png
+2025-05-31 23:10:32 - INFO - Открыта игра с ID 380 в регионе mexico
+2025-05-31 23:10:33 - INFO - Модалка закрыта для игры с ID 380.
+2025-05-31 23:11:03 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\mexico\mexico — 380.png
+2025-05-31 23:11:07 - INFO - Открыта игра с ID 8082 в регионе mexico
+2025-05-31 23:11:07 - INFO - Модалка закрыта для игры с ID 8082.
+2025-05-31 23:11:37 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\mexico\mexico — 8082.png
+2025-05-31 23:11:41 - INFO - Открыта игра с ID 8081 в регионе mexico
+2025-05-31 23:11:42 - INFO - Модалка закрыта для игры с ID 8081.
+2025-05-31 23:12:12 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\mexico\mexico — 8081.png
+2025-05-31 23:12:16 - INFO - Открыта игра с ID 8135 в регионе mexico
+2025-05-31 23:12:16 - INFO - Модалка закрыта для игры с ID 8135.
+2025-05-31 23:12:47 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\mexico\mexico — 8135.png
+2025-05-31 23:12:51 - INFO - Открыта игра с ID 2412 в регионе mexico
+2025-05-31 23:12:51 - INFO - Модалка закрыта для игры с ID 2412.
+2025-05-31 23:13:21 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\mexico\mexico — 2412.png
+2025-05-31 23:13:25 - INFO - Открыта игра с ID 2869 в регионе mexico
+2025-05-31 23:13:25 - INFO - Модалка закрыта для игры с ID 2869.
+2025-05-31 23:13:55 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\mexico\mexico — 2869.png
+2025-05-31 23:14:00 - INFO - Открыта игра с ID 2870 в регионе mexico
+2025-05-31 23:14:00 - INFO - Модалка закрыта для игры с ID 2870.
+2025-05-31 23:14:30 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\mexico\mexico — 2870.png
+2025-05-31 23:14:34 - INFO - Открыта игра с ID 7920 в регионе mexico
+2025-05-31 23:14:34 - INFO - Модалка закрыта для игры с ID 7920.
+2025-05-31 23:15:05 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\mexico\mexico — 7920.png
+2025-05-31 23:15:09 - INFO - Открыта игра с ID 7948 в регионе mexico
+2025-05-31 23:15:09 - INFO - Модалка закрыта для игры с ID 7948.
+2025-05-31 23:15:39 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\mexico\mexico — 7948.png
+2025-05-31 23:15:43 - INFO - Открыта игра с ID 7934 в регионе mexico
+2025-05-31 23:15:43 - INFO - Модалка закрыта для игры с ID 7934.
+2025-05-31 23:16:14 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\mexico\mexico — 7934.png
+2025-05-31 23:16:18 - INFO - Открыта игра с ID 7944 в регионе mexico
+2025-05-31 23:16:18 - INFO - Модалка закрыта для игры с ID 7944.
+2025-05-31 23:16:49 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\mexico\mexico — 7944.png
+2025-05-31 23:16:53 - INFO - Открыта игра с ID 8323 в регионе mexico
+2025-05-31 23:16:53 - INFO - Модалка закрыта для игры с ID 8323.
+2025-05-31 23:17:23 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\mexico\mexico — 8323.png
+2025-05-31 23:17:28 - INFO - Открыта игра с ID 8248 в регионе mexico
+2025-05-31 23:17:28 - INFO - Модалка закрыта для игры с ID 8248.
+2025-05-31 23:17:58 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\mexico\mexico — 8248.png
+2025-05-31 23:18:11 - INFO - Создана папка для скриншотов: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\argentina
+2025-05-31 23:18:11 - INFO - ====== WebDriver manager ======
+2025-05-31 23:18:12 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-31 23:18:13 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-31 23:18:14 - INFO - Driver [C:\Users\Nikita\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-31 23:18:15 - INFO - Запущен браузер в мобильном режиме (iPhone 12 Pro)
+2025-05-31 23:19:00 - INFO - Открыта игра с ID 1 в регионе argentina
+2025-05-31 23:19:00 - INFO - Модалка закрыта для игры с ID 1.
+2025-05-31 23:19:30 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\argentina\argentina — 1.png
+2025-05-31 23:19:36 - INFO - Открыта игра с ID 8583 в регионе argentina
+2025-05-31 23:19:36 - INFO - Модалка закрыта для игры с ID 8583.
+2025-05-31 23:20:06 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\argentina\argentina — 8583.png
+2025-05-31 23:20:11 - INFO - Открыта игра с ID 8586 в регионе argentina
+2025-05-31 23:20:11 - INFO - Модалка закрыта для игры с ID 8586.
+2025-05-31 23:20:41 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\argentina\argentina — 8586.png
+2025-05-31 23:20:46 - INFO - Открыта игра с ID 3513 в регионе argentina
+2025-05-31 23:20:46 - INFO - Модалка закрыта для игры с ID 3513.
+2025-05-31 23:21:16 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\argentina\argentina — 3513.png
+2025-05-31 23:21:21 - INFO - Открыта игра с ID 5777 в регионе argentina
+2025-05-31 23:21:22 - INFO - Модалка закрыта для игры с ID 5777.
+2025-05-31 23:21:52 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\argentina\argentina — 5777.png
+2025-05-31 23:21:55 - INFO - Открыта игра с ID 8590 в регионе argentina
+2025-05-31 23:21:56 - INFO - Модалка закрыта для игры с ID 8590.
+2025-05-31 23:22:26 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\argentina\argentina — 8590.png
+2025-05-31 23:22:31 - INFO - Открыта игра с ID 14430 в регионе argentina
+2025-05-31 23:22:31 - INFO - Модалка закрыта для игры с ID 14430.
+2025-05-31 23:23:02 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\argentina\argentina — 14430.png
+2025-05-31 23:23:07 - INFO - Открыта игра с ID 14428 в регионе argentina
+2025-05-31 23:23:08 - INFO - Модалка закрыта для игры с ID 14428.
+2025-05-31 23:23:38 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\argentina\argentina — 14428.png
+2025-05-31 23:23:43 - INFO - Открыта игра с ID 14431 в регионе argentina
+2025-05-31 23:23:43 - INFO - Модалка закрыта для игры с ID 14431.
+2025-05-31 23:24:14 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\argentina\argentina — 14431.png
+2025-05-31 23:24:18 - INFO - Открыта игра с ID 6655 в регионе argentina
+2025-05-31 23:24:19 - INFO - Модалка закрыта для игры с ID 6655.
+2025-05-31 23:24:49 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\argentina\argentina — 6655.png
+2025-05-31 23:24:52 - INFO - Открыта игра с ID 5783 в регионе argentina
+2025-05-31 23:24:53 - INFO - Модалка закрыта для игры с ID 5783.
+2025-05-31 23:25:23 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\argentina\argentina — 5783.png
+2025-05-31 23:25:26 - INFO - Открыта игра с ID 2 в регионе argentina
+2025-05-31 23:25:27 - INFO - Модалка закрыта для игры с ID 2.
+2025-05-31 23:25:57 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\argentina\argentina — 2.png
+2025-05-31 23:26:02 - INFO - Открыта игра с ID 8082 в регионе argentina
+2025-05-31 23:26:02 - INFO - Модалка закрыта для игры с ID 8082.
+2025-05-31 23:26:33 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\argentina\argentina — 8082.png
+2025-05-31 23:26:36 - INFO - Открыта игра с ID 8081 в регионе argentina
+2025-05-31 23:26:36 - INFO - Модалка закрыта для игры с ID 8081.
+2025-05-31 23:27:07 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\argentina\argentina — 8081.png
+2025-05-31 23:27:10 - INFO - Открыта игра с ID 8135 в регионе argentina
+2025-05-31 23:27:10 - INFO - Модалка закрыта для игры с ID 8135.
+2025-05-31 23:27:41 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\argentina\argentina — 8135.png
+2025-05-31 23:27:44 - INFO - Открыта игра с ID 2412 в регионе argentina
+2025-05-31 23:27:45 - INFO - Модалка закрыта для игры с ID 2412.
+2025-05-31 23:28:16 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\argentina\argentina — 2412.png
+2025-05-31 23:28:20 - INFO - Открыта игра с ID 2869 в регионе argentina
+2025-05-31 23:28:20 - INFO - Модалка закрыта для игры с ID 2869.
+2025-05-31 23:28:51 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\argentina\argentina — 2869.png
+2025-05-31 23:28:56 - INFO - Открыта игра с ID 2870 в регионе argentina
+2025-05-31 23:28:56 - INFO - Модалка закрыта для игры с ID 2870.
+2025-05-31 23:29:26 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\argentina\argentina — 2870.png
+2025-05-31 23:29:31 - INFO - Открыта игра с ID 7920 в регионе argentina
+2025-05-31 23:29:31 - INFO - Модалка закрыта для игры с ID 7920.
+2025-05-31 23:30:01 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\argentina\argentina — 7920.png
+2025-05-31 23:30:05 - INFO - Открыта игра с ID 7948 в регионе argentina
+2025-05-31 23:30:05 - INFO - Модалка закрыта для игры с ID 7948.
+2025-05-31 23:30:35 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\argentina\argentina — 7948.png
+2025-05-31 23:30:38 - INFO - Открыта игра с ID 7934 в регионе argentina
+2025-05-31 23:30:39 - INFO - Модалка закрыта для игры с ID 7934.
+2025-05-31 23:31:09 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\argentina\argentina — 7934.png
+2025-05-31 23:31:12 - INFO - Открыта игра с ID 7944 в регионе argentina
+2025-05-31 23:31:13 - INFO - Модалка закрыта для игры с ID 7944.
+2025-05-31 23:31:43 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\argentina\argentina — 7944.png
+2025-05-31 23:31:46 - INFO - Открыта игра с ID 8323 в регионе argentina
+2025-05-31 23:31:47 - INFO - Модалка закрыта для игры с ID 8323.
+2025-05-31 23:32:17 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\argentina\argentina — 8323.png
+2025-05-31 23:32:21 - INFO - Открыта игра с ID 8248 в регионе argentina
+2025-05-31 23:32:21 - INFO - Модалка закрыта для игры с ID 8248.
+2025-05-31 23:32:52 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\argentina\argentina — 8248.png
+2025-05-31 23:33:04 - INFO - Создана папка для скриншотов: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\chili
+2025-05-31 23:33:04 - INFO - ====== WebDriver manager ======
+2025-05-31 23:33:05 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-31 23:33:06 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-31 23:33:07 - INFO - Driver [C:\Users\Nikita\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-31 23:33:08 - INFO - Запущен браузер в мобильном режиме (iPhone 12 Pro)
+2025-05-31 23:33:53 - INFO - Открыта игра с ID 1 в регионе chili
+2025-05-31 23:33:53 - INFO - Модалка закрыта для игры с ID 1.
+2025-05-31 23:34:24 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\chili\chili — 1.png
+2025-05-31 23:34:28 - INFO - Открыта игра с ID 7157 в регионе chili
+2025-05-31 23:34:28 - INFO - Модалка закрыта для игры с ID 7157.
+2025-05-31 23:34:58 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\chili\chili — 7157.png
+2025-05-31 23:35:03 - INFO - Открыта игра с ID 14353 в регионе chili
+2025-05-31 23:35:03 - INFO - Модалка закрыта для игры с ID 14353.
+2025-05-31 23:35:33 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\chili\chili — 14353.png
+2025-05-31 23:35:37 - INFO - Открыта игра с ID 8596 в регионе chili
+2025-05-31 23:35:37 - INFO - Модалка закрыта для игры с ID 8596.
+2025-05-31 23:36:08 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\chili\chili — 8596.png
+2025-05-31 23:36:12 - INFO - Открыта игра с ID 8590 в регионе chili
+2025-05-31 23:36:12 - INFO - Модалка закрыта для игры с ID 8590.
+2025-05-31 23:36:42 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\chili\chili — 8590.png
+2025-05-31 23:36:47 - INFO - Открыта игра с ID 5849 в регионе chili
+2025-05-31 23:36:47 - INFO - Модалка закрыта для игры с ID 5849.
+2025-05-31 23:37:17 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\chili\chili — 5849.png
+2025-05-31 23:37:35 - INFO - Открыта игра с ID 8583 в регионе chili
+2025-05-31 23:37:35 - INFO - Модалка закрыта для игры с ID 8583.
+2025-05-31 23:38:05 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\chili\chili — 8583.png
+2025-05-31 23:38:09 - INFO - Открыта игра с ID 3514 в регионе chili
+2025-05-31 23:38:09 - INFO - Модалка закрыта для игры с ID 3514.
+2025-05-31 23:38:40 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\chili\chili — 3514.png
+2025-05-31 23:38:45 - INFO - Открыта игра с ID 3513 в регионе chili
+2025-05-31 23:38:45 - INFO - Модалка закрыта для игры с ID 3513.
+2025-05-31 23:39:16 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\chili\chili — 3513.png
+2025-05-31 23:39:20 - INFO - Открыта игра с ID 6655 в регионе chili
+2025-05-31 23:39:20 - INFO - Модалка закрыта для игры с ID 6655.
+2025-05-31 23:39:50 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\chili\chili — 6655.png
+2025-05-31 23:39:55 - INFO - Открыта игра с ID 863 в регионе chili
+2025-05-31 23:39:56 - INFO - Модалка закрыта для игры с ID 863.
+2025-05-31 23:40:26 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\chili\chili — 863.png
+2025-05-31 23:40:30 - INFO - Открыта игра с ID 5797 в регионе chili
+2025-05-31 23:40:31 - INFO - Модалка закрыта для игры с ID 5797.
+2025-05-31 23:41:01 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\chili\chili — 5797.png
+2025-05-31 23:41:05 - INFO - Открыта игра с ID 2141 в регионе chili
+2025-05-31 23:41:05 - INFO - Модалка закрыта для игры с ID 2141.
+2025-05-31 23:41:36 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\chili\chili — 2141.png
+2025-05-31 23:41:40 - INFO - Открыта игра с ID 7928 в регионе chili
+2025-05-31 23:41:40 - INFO - Модалка закрыта для игры с ID 7928.
+2025-05-31 23:42:11 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\chili\chili — 7928.png
+2025-05-31 23:42:15 - INFO - Открыта игра с ID 8135 в регионе chili
+2025-05-31 23:42:15 - INFO - Модалка закрыта для игры с ID 8135.
+2025-05-31 23:42:46 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\chili\chili — 8135.png
+2025-05-31 23:42:50 - INFO - Открыта игра с ID 1339 в регионе chili
+2025-05-31 23:42:50 - INFO - Модалка закрыта для игры с ID 1339.
+2025-05-31 23:43:21 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\chili\chili — 1339.png
+2025-05-31 23:43:24 - INFO - Открыта игра с ID 1341 в регионе chili
+2025-05-31 23:43:25 - INFO - Модалка закрыта для игры с ID 1341.
+2025-05-31 23:43:55 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\chili\chili — 1341.png
+2025-05-31 23:43:59 - INFO - Открыта игра с ID 2412 в регионе chili
+2025-05-31 23:44:00 - INFO - Модалка закрыта для игры с ID 2412.
+2025-05-31 23:44:30 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\chili\chili — 2412.png
+2025-05-31 23:44:34 - INFO - Открыта игра с ID 2869 в регионе chili
+2025-05-31 23:44:34 - INFO - Модалка закрыта для игры с ID 2869.
+2025-05-31 23:45:05 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\chili\chili — 2869.png
+2025-05-31 23:45:09 - INFO - Открыта игра с ID 2870 в регионе chili
+2025-05-31 23:45:09 - INFO - Модалка закрыта для игры с ID 2870.
+2025-05-31 23:45:39 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\chili\chili — 2870.png
+2025-05-31 23:45:43 - INFO - Открыта игра с ID 7922 в регионе chili
+2025-05-31 23:45:43 - INFO - Модалка закрыта для игры с ID 7922.
+2025-05-31 23:46:14 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\chili\chili — 7922.png
+2025-05-31 23:46:19 - INFO - Открыта игра с ID 7924 в регионе chili
+2025-05-31 23:46:19 - INFO - Модалка закрыта для игры с ID 7924.
+2025-05-31 23:46:50 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\chili\chili — 7924.png
+2025-05-31 23:46:53 - INFO - Открыта игра с ID 7926 в регионе chili
+2025-05-31 23:46:54 - INFO - Модалка закрыта для игры с ID 7926.
+2025-05-31 23:47:24 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\chili\chili — 7926.png
+2025-05-31 23:47:29 - INFO - Открыта игра с ID 7930 в регионе chili
+2025-05-31 23:47:29 - INFO - Модалка закрыта для игры с ID 7930.
+2025-05-31 23:48:00 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\chili\chili — 7930.png
+2025-05-31 23:48:13 - INFO - Создана папка для скриншотов: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\indonezia
+2025-05-31 23:48:13 - INFO - ====== WebDriver manager ======
+2025-05-31 23:48:14 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-31 23:48:15 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-31 23:48:15 - INFO - Driver [C:\Users\Nikita\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-31 23:48:16 - INFO - Запущен браузер в мобильном режиме (iPhone 12 Pro)
+2025-05-31 23:48:52 - ERROR - Ошибка в GEO indonezia: Message: element click intercepted: Element <a aria-label="Valor" class="_logo_x2kph_1" href="/id">...</a> is not clickable at point (51, 36). Other element would receive the click: <h3 class="_title_13dcl_110 _title_fontSize_medium_13dcl_126">...</h3>
+  (Session info: chrome=136.0.7103.114)
+Stacktrace:
+	GetHandleVerifier [0x010CFC03+61635]
+	GetHandleVerifier [0x010CFC44+61700]
+	(No symbol) [0x00EF05D3]
+	(No symbol) [0x00F3ECB0]
+	(No symbol) [0x00F3D054]
+	(No symbol) [0x00F3ABF7]
+	(No symbol) [0x00F39EFB]
+	(No symbol) [0x00F2E5A5]
+	(No symbol) [0x00F5D29C]
+	(No symbol) [0x00F2E034]
+	(No symbol) [0x00F5D514]
+	(No symbol) [0x00F7E61B]
+	(No symbol) [0x00F5D096]
+	(No symbol) [0x00F2C840]
+	(No symbol) [0x00F2D6A4]
+	GetHandleVerifier [0x01354523+2701795]
+	GetHandleVerifier [0x0134FCA6+2683238]
+	GetHandleVerifier [0x0136A9EE+2793134]
+	GetHandleVerifier [0x010E68C5+155013]
+	GetHandleVerifier [0x010ECFAD+181357]
+	GetHandleVerifier [0x010D7458+92440]
+	GetHandleVerifier [0x010D7600+92864]
+	GetHandleVerifier [0x010C1FF0+5296]
+	BaseThreadInitThunk [0x7658FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778582AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7785827E+238]
+
+2025-05-31 23:49:04 - INFO - Создана папка для скриншотов: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\korea
+2025-05-31 23:49:04 - INFO - ====== WebDriver manager ======
+2025-05-31 23:49:05 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-31 23:49:07 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-31 23:49:08 - INFO - Driver [C:\Users\Nikita\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-31 23:49:09 - INFO - Запущен браузер в мобильном режиме (iPhone 12 Pro)
+2025-05-31 23:49:57 - INFO - Открыта игра с ID 1 в регионе korea
+2025-05-31 23:49:57 - INFO - Модалка закрыта для игры с ID 1.
+2025-05-31 23:50:28 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\korea\korea — 1.png
+2025-05-31 23:50:32 - INFO - Открыта игра с ID 8596 в регионе korea
+2025-05-31 23:50:32 - INFO - Модалка закрыта для игры с ID 8596.
+2025-05-31 23:51:02 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\korea\korea — 8596.png
+2025-05-31 23:51:07 - INFO - Открыта игра с ID 8590 в регионе korea
+2025-05-31 23:51:08 - INFO - Модалка закрыта для игры с ID 8590.
+2025-05-31 23:51:38 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\korea\korea — 8590.png
+2025-05-31 23:51:42 - INFO - Открыта игра с ID 3513 в регионе korea
+2025-05-31 23:51:43 - INFO - Модалка закрыта для игры с ID 3513.
+2025-05-31 23:52:13 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\korea\korea — 3513.png
+2025-05-31 23:52:17 - INFO - Открыта игра с ID 13448 в регионе korea
+2025-05-31 23:52:17 - INFO - Модалка закрыта для игры с ID 13448.
+2025-05-31 23:52:48 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\korea\korea — 13448.png
+2025-05-31 23:52:53 - INFO - Открыта игра с ID 6776 в регионе korea
+2025-05-31 23:52:54 - INFO - Модалка закрыта для игры с ID 6776.
+2025-05-31 23:53:24 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\korea\korea — 6776.png
+2025-05-31 23:53:28 - INFO - Открыта игра с ID 12441 в регионе korea
+2025-05-31 23:53:28 - INFO - Модалка закрыта для игры с ID 12441.
+2025-05-31 23:53:59 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\korea\korea — 12441.png
+2025-05-31 23:54:04 - INFO - Открыта игра с ID 3851 в регионе korea
+2025-05-31 23:54:04 - INFO - Модалка закрыта для игры с ID 3851.
+2025-05-31 23:54:35 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\korea\korea — 3851.png
+2025-05-31 23:54:39 - INFO - Открыта игра с ID 7157 в регионе korea
+2025-05-31 23:54:40 - INFO - Модалка закрыта для игры с ID 7157.
+2025-05-31 23:55:10 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\korea\korea — 7157.png
+2025-05-31 23:55:15 - INFO - Открыта игра с ID 5783 в регионе korea
+2025-05-31 23:55:15 - INFO - Модалка закрыта для игры с ID 5783.
+2025-05-31 23:55:46 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\korea\korea — 5783.png
+2025-05-31 23:55:50 - INFO - Открыта игра с ID 14428 в регионе korea
+2025-05-31 23:55:50 - INFO - Модалка закрыта для игры с ID 14428.
+2025-05-31 23:56:21 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\korea\korea — 14428.png
+2025-05-31 23:56:26 - INFO - Открыта игра с ID 14641 в регионе korea
+2025-05-31 23:56:26 - INFO - Модалка закрыта для игры с ID 14641.
+2025-05-31 23:56:57 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\korea\korea — 14641.png
+2025-05-31 23:57:01 - INFO - Открыта игра с ID 1334 в регионе korea
+2025-05-31 23:57:01 - INFO - Модалка закрыта для игры с ID 1334.
+2025-05-31 23:57:32 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\korea\korea — 1334.png
+2025-05-31 23:57:36 - INFO - Открыта игра с ID 1339 в регионе korea
+2025-05-31 23:57:37 - INFO - Модалка закрыта для игры с ID 1339.
+2025-05-31 23:58:07 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\korea\korea — 1339.png
+2025-05-31 23:58:13 - INFO - Открыта игра с ID 1341 в регионе korea
+2025-05-31 23:58:13 - INFO - Модалка закрыта для игры с ID 1341.
+2025-05-31 23:58:43 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\korea\korea — 1341.png
+2025-05-31 23:58:49 - INFO - Открыта игра с ID 7920 в регионе korea
+2025-05-31 23:58:49 - INFO - Модалка закрыта для игры с ID 7920.
+2025-05-31 23:59:20 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\korea\korea — 7920.png
+2025-05-31 23:59:24 - INFO - Открыта игра с ID 7922 в регионе korea
+2025-05-31 23:59:24 - INFO - Модалка закрыта для игры с ID 7922.
+2025-05-31 23:59:55 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\korea\korea — 7922.png
+2025-06-01 00:00:00 - INFO - Открыта игра с ID 7924 в регионе korea
+2025-06-01 00:00:00 - INFO - Модалка закрыта для игры с ID 7924.
+2025-06-01 00:00:30 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\korea\korea — 7924.png
+2025-06-01 00:00:34 - INFO - Открыта игра с ID 7926 в регионе korea
+2025-06-01 00:00:35 - INFO - Модалка закрыта для игры с ID 7926.
+2025-06-01 00:01:05 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\korea\korea — 7926.png
+2025-06-01 00:01:10 - INFO - Открыта игра с ID 7928 в регионе korea
+2025-06-01 00:01:11 - INFO - Модалка закрыта для игры с ID 7928.
+2025-06-01 00:01:41 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\korea\korea — 7928.png
+2025-06-01 00:01:45 - INFO - Открыта игра с ID 7930 в регионе korea
+2025-06-01 00:01:45 - INFO - Модалка закрыта для игры с ID 7930.
+2025-06-01 00:02:16 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\korea\korea — 7930.png
+2025-06-01 00:02:21 - INFO - Открыта игра с ID 7934 в регионе korea
+2025-06-01 00:02:21 - INFO - Модалка закрыта для игры с ID 7934.
+2025-06-01 00:02:52 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\korea\korea — 7934.png
+2025-06-01 00:02:57 - INFO - Открыта игра с ID 7944 в регионе korea
+2025-06-01 00:02:57 - INFO - Модалка закрыта для игры с ID 7944.
+2025-06-01 00:03:28 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\korea\korea — 7944.png
+2025-06-01 00:03:33 - INFO - Открыта игра с ID 7972 в регионе korea
+2025-06-01 00:03:34 - INFO - Модалка закрыта для игры с ID 7972.
+2025-06-01 00:04:04 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\korea\korea — 7972.png
+2025-06-01 00:04:17 - INFO - Создана папка для скриншотов: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\malayzia
+2025-06-01 00:04:17 - INFO - ====== WebDriver manager ======
+2025-06-01 00:04:18 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-01 00:04:19 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-01 00:04:19 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-01 00:04:21 - INFO - WebDriver version 136.0.7103.113 selected
+2025-06-01 00:04:21 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/136.0.7103.113/win32/chromedriver-win32.zip
+2025-06-01 00:04:21 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/136.0.7103.113/win32/chromedriver-win32.zip
+2025-06-01 00:04:22 - INFO - Driver downloading response is 200
+2025-06-01 00:04:25 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-01 00:04:26 - INFO - Driver has been saved in cache [C:\Users\Nikita\.wdm\drivers\chromedriver\win64\136.0.7103.113]
+2025-06-01 00:04:28 - INFO - Запущен браузер в мобильном режиме (iPhone 12 Pro)
+2025-06-01 00:05:12 - INFO - Открыта игра с ID 1 в регионе malayzia
+2025-06-01 00:05:12 - INFO - Модалка закрыта для игры с ID 1.
+2025-06-01 00:05:42 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\malayzia\malayzia — 1.png
+2025-06-01 00:05:46 - INFO - Открыта игра с ID 8583 в регионе malayzia
+2025-06-01 00:05:46 - INFO - Модалка закрыта для игры с ID 8583.
+2025-06-01 00:06:17 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\malayzia\malayzia — 8583.png
+2025-06-01 00:06:20 - INFO - Открыта игра с ID 3513 в регионе malayzia
+2025-06-01 00:06:20 - INFO - Модалка закрыта для игры с ID 3513.
+2025-06-01 00:06:51 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\malayzia\malayzia — 3513.png
+2025-06-01 00:06:55 - INFO - Открыта игра с ID 14641 в регионе malayzia
+2025-06-01 00:06:55 - INFO - Модалка закрыта для игры с ID 14641.
+2025-06-01 00:07:25 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\malayzia\malayzia — 14641.png
+2025-06-01 00:07:29 - INFO - Открыта игра с ID 8586 в регионе malayzia
+2025-06-01 00:07:29 - INFO - Модалка закрыта для игры с ID 8586.
+2025-06-01 00:08:00 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\malayzia\malayzia — 8586.png
+2025-06-01 00:08:04 - INFO - Открыта игра с ID 14430 в регионе malayzia
+2025-06-01 00:08:04 - INFO - Модалка закрыта для игры с ID 14430.
+2025-06-01 00:08:34 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\malayzia\malayzia — 14430.png
+2025-06-01 00:08:38 - INFO - Открыта игра с ID 14428 в регионе malayzia
+2025-06-01 00:08:38 - INFO - Модалка закрыта для игры с ID 14428.
+2025-06-01 00:09:09 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\malayzia\malayzia — 14428.png
+2025-06-01 00:09:13 - INFO - Открыта игра с ID 8590 в регионе malayzia
+2025-06-01 00:09:13 - INFO - Модалка закрыта для игры с ID 8590.
+2025-06-01 00:09:44 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\malayzia\malayzia — 8590.png
+2025-06-01 00:09:48 - INFO - Открыта игра с ID 7825 в регионе malayzia
+2025-06-01 00:09:48 - INFO - Модалка закрыта для игры с ID 7825.
+2025-06-01 00:10:18 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\malayzia\malayzia — 7825.png
+2025-06-01 00:10:22 - INFO - Открыта игра с ID 5783 в регионе malayzia
+2025-06-01 00:10:22 - INFO - Модалка закрыта для игры с ID 5783.
+2025-06-01 00:10:53 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\malayzia\malayzia — 5783.png
+2025-06-01 00:10:57 - INFO - Открыта игра с ID 7157 в регионе malayzia
+2025-06-01 00:10:57 - INFO - Модалка закрыта для игры с ID 7157.
+2025-06-01 00:11:27 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\malayzia\malayzia — 7157.png
+2025-06-01 00:11:31 - INFO - Открыта игра с ID 6635 в регионе malayzia
+2025-06-01 00:11:32 - INFO - Модалка закрыта для игры с ID 6635.
+2025-06-01 00:12:02 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\malayzia\malayzia — 6635.png
+2025-06-01 00:12:06 - INFO - Открыта игра с ID 8127 в регионе malayzia
+2025-06-01 00:12:06 - INFO - Модалка закрыта для игры с ID 8127.
+2025-06-01 00:12:37 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\malayzia\malayzia — 8127.png
+2025-06-01 00:12:41 - INFO - Открыта игра с ID 8031 в регионе malayzia
+2025-06-01 00:12:41 - INFO - Модалка закрыта для игры с ID 8031.
+2025-06-01 00:13:11 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\malayzia\malayzia — 8031.png
+2025-06-01 00:13:15 - INFO - Открыта игра с ID 7922 в регионе malayzia
+2025-06-01 00:13:16 - INFO - Модалка закрыта для игры с ID 7922.
+2025-06-01 00:13:46 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\malayzia\malayzia — 7922.png
+2025-06-01 00:13:50 - INFO - Открыта игра с ID 7924 в регионе malayzia
+2025-06-01 00:13:50 - INFO - Модалка закрыта для игры с ID 7924.
+2025-06-01 00:14:21 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\malayzia\malayzia — 7924.png
+2025-06-01 00:14:25 - INFO - Открыта игра с ID 7926 в регионе malayzia
+2025-06-01 00:14:25 - INFO - Модалка закрыта для игры с ID 7926.
+2025-06-01 00:14:55 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\malayzia\malayzia — 7926.png
+2025-06-01 00:14:59 - INFO - Открыта игра с ID 7928 в регионе malayzia
+2025-06-01 00:14:59 - INFO - Модалка закрыта для игры с ID 7928.
+2025-06-01 00:15:30 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\malayzia\malayzia — 7928.png
+2025-06-01 00:15:34 - INFO - Открыта игра с ID 7930 в регионе malayzia
+2025-06-01 00:15:34 - INFO - Модалка закрыта для игры с ID 7930.
+2025-06-01 00:16:04 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\malayzia\malayzia — 7930.png
+2025-06-01 00:16:09 - INFO - Открыта игра с ID 7934 в регионе malayzia
+2025-06-01 00:16:09 - INFO - Модалка закрыта для игры с ID 7934.
+2025-06-01 00:16:40 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\malayzia\malayzia — 7934.png
+2025-06-01 00:16:43 - INFO - Открыта игра с ID 7944 в регионе malayzia
+2025-06-01 00:16:44 - INFO - Модалка закрыта для игры с ID 7944.
+2025-06-01 00:17:14 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\malayzia\malayzia — 7944.png
+2025-06-01 00:17:19 - INFO - Открыта игра с ID 7948 в регионе malayzia
+2025-06-01 00:17:19 - INFO - Модалка закрыта для игры с ID 7948.
+2025-06-01 00:17:49 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\malayzia\malayzia — 7948.png
+2025-06-01 00:17:53 - INFO - Открыта игра с ID 7972 в регионе malayzia
+2025-06-01 00:17:53 - INFO - Модалка закрыта для игры с ID 7972.
+2025-06-01 00:18:24 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\malayzia\malayzia — 7972.png
+2025-06-01 00:18:28 - INFO - Открыта игра с ID 7976 в регионе malayzia
+2025-06-01 00:18:28 - INFO - Модалка закрыта для игры с ID 7976.
+2025-06-01 00:18:59 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\malayzia\malayzia — 7976.png
+2025-06-01 00:19:12 - INFO - Создана папка для скриншотов: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\yzbeckistan
+2025-06-01 00:19:12 - INFO - ====== WebDriver manager ======
+2025-06-01 00:19:13 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-01 00:19:13 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-01 00:19:13 - INFO - Driver [C:\Users\Nikita\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-01 00:19:14 - INFO - Запущен браузер в мобильном режиме (iPhone 12 Pro)
+2025-06-01 00:19:54 - INFO - Открыта игра с ID 14249 в регионе yzbeckistan
+2025-06-01 00:19:54 - INFO - Модалка закрыта для игры с ID 14249.
+2025-06-01 00:20:25 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\yzbeckistan\yzbeckistan — 14249.png
+2025-06-01 00:20:29 - INFO - Открыта игра с ID 1 в регионе yzbeckistan
+2025-06-01 00:20:29 - INFO - Модалка закрыта для игры с ID 1.
+2025-06-01 00:21:00 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\yzbeckistan\yzbeckistan — 1.png
+2025-06-01 00:21:03 - INFO - Открыта игра с ID 8583 в регионе yzbeckistan
+2025-06-01 00:21:03 - INFO - Модалка закрыта для игры с ID 8583.
+2025-06-01 00:21:33 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\yzbeckistan\yzbeckistan — 8583.png
+2025-06-01 00:21:37 - INFO - Открыта игра с ID 17568 в регионе yzbeckistan
+2025-06-01 00:21:37 - INFO - Модалка закрыта для игры с ID 17568.
+2025-06-01 00:22:08 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\yzbeckistan\yzbeckistan — 17568.png
+2025-06-01 00:22:11 - INFO - Открыта игра с ID 8590 в регионе yzbeckistan
+2025-06-01 00:22:11 - INFO - Модалка закрыта для игры с ID 8590.
+2025-06-01 00:22:42 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\yzbeckistan\yzbeckistan — 8590.png
+2025-06-01 00:22:45 - INFO - Открыта игра с ID 17608 в регионе yzbeckistan
+2025-06-01 00:22:45 - INFO - Модалка закрыта для игры с ID 17608.
+2025-06-01 00:23:16 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\yzbeckistan\yzbeckistan — 17608.png
+2025-06-01 00:23:19 - INFO - Открыта игра с ID 17611 в регионе yzbeckistan
+2025-06-01 00:23:19 - INFO - Модалка закрыта для игры с ID 17611.
+2025-06-01 00:23:49 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\yzbeckistan\yzbeckistan — 17611.png
+2025-06-01 00:23:53 - INFO - Открыта игра с ID 8586 в регионе yzbeckistan
+2025-06-01 00:23:53 - INFO - Модалка закрыта для игры с ID 8586.
+2025-06-01 00:24:24 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\yzbeckistan\yzbeckistan — 8586.png
+2025-06-01 00:24:27 - INFO - Открыта игра с ID 14428 в регионе yzbeckistan
+2025-06-01 00:24:27 - INFO - Модалка закрыта для игры с ID 14428.
+2025-06-01 00:24:58 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\yzbeckistan\yzbeckistan — 14428.png
+2025-06-01 00:25:01 - INFO - Открыта игра с ID 15245 в регионе yzbeckistan
+2025-06-01 00:25:02 - INFO - Модалка закрыта для игры с ID 15245.
+2025-06-01 00:25:32 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\yzbeckistan\yzbeckistan — 15245.png
+2025-06-01 00:25:35 - INFO - Открыта игра с ID 6655 в регионе yzbeckistan
+2025-06-01 00:25:36 - INFO - Модалка закрыта для игры с ID 6655.
+2025-06-01 00:26:06 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\yzbeckistan\yzbeckistan — 6655.png
+2025-06-01 00:26:09 - INFO - Открыта игра с ID 17605 в регионе yzbeckistan
+2025-06-01 00:26:10 - INFO - Модалка закрыта для игры с ID 17605.
+2025-06-01 00:26:40 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\yzbeckistan\yzbeckistan — 17605.png
+2025-06-01 00:26:43 - INFO - Открыта игра с ID 8082 в регионе yzbeckistan
+2025-06-01 00:26:43 - INFO - Модалка закрыта для игры с ID 8082.
+2025-06-01 00:27:14 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\yzbeckistan\yzbeckistan — 8082.png
+2025-06-01 00:27:17 - INFO - Открыта игра с ID 8081 в регионе yzbeckistan
+2025-06-01 00:27:18 - INFO - Модалка закрыта для игры с ID 8081.
+2025-06-01 00:27:48 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\yzbeckistan\yzbeckistan — 8081.png
+2025-06-01 00:27:51 - INFO - Открыта игра с ID 8135 в регионе yzbeckistan
+2025-06-01 00:27:52 - INFO - Модалка закрыта для игры с ID 8135.
+2025-06-01 00:28:22 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\yzbeckistan\yzbeckistan — 8135.png
+2025-06-01 00:28:26 - INFO - Открыта игра с ID 2412 в регионе yzbeckistan
+2025-06-01 00:28:26 - INFO - Модалка закрыта для игры с ID 2412.
+2025-06-01 00:28:56 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\yzbeckistan\yzbeckistan — 2412.png
+2025-06-01 00:29:00 - INFO - Открыта игра с ID 2869 в регионе yzbeckistan
+2025-06-01 00:29:00 - INFO - Модалка закрыта для игры с ID 2869.
+2025-06-01 00:29:30 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\yzbeckistan\yzbeckistan — 2869.png
+2025-06-01 00:29:34 - INFO - Открыта игра с ID 2870 в регионе yzbeckistan
+2025-06-01 00:29:34 - INFO - Модалка закрыта для игры с ID 2870.
+2025-06-01 00:30:05 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\yzbeckistan\yzbeckistan — 2870.png
+2025-06-01 00:30:08 - INFO - Открыта игра с ID 7920 в регионе yzbeckistan
+2025-06-01 00:30:08 - INFO - Модалка закрыта для игры с ID 7920.
+2025-06-01 00:30:39 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\yzbeckistan\yzbeckistan — 7920.png
+2025-06-01 00:30:43 - INFO - Открыта игра с ID 7948 в регионе yzbeckistan
+2025-06-01 00:30:43 - INFO - Модалка закрыта для игры с ID 7948.
+2025-06-01 00:31:13 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\yzbeckistan\yzbeckistan — 7948.png
+2025-06-01 00:31:17 - INFO - Открыта игра с ID 7934 в регионе yzbeckistan
+2025-06-01 00:31:17 - INFO - Модалка закрыта для игры с ID 7934.
+2025-06-01 00:31:47 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\yzbeckistan\yzbeckistan — 7934.png
+2025-06-01 00:31:51 - INFO - Открыта игра с ID 7944 в регионе yzbeckistan
+2025-06-01 00:31:51 - INFO - Модалка закрыта для игры с ID 7944.
+2025-06-01 00:32:22 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\yzbeckistan\yzbeckistan — 7944.png
+2025-06-01 00:32:25 - INFO - Открыта игра с ID 8323 в регионе yzbeckistan
+2025-06-01 00:32:25 - INFO - Модалка закрыта для игры с ID 8323.
+2025-06-01 00:32:56 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\yzbeckistan\yzbeckistan — 8323.png
+2025-06-01 00:32:59 - INFO - Открыта игра с ID 8248 в регионе yzbeckistan
+2025-06-01 00:32:59 - INFO - Модалка закрыта для игры с ID 8248.
+2025-06-01 00:33:30 - INFO - Скриншот сохранён: C:\Users\Nikita\actions-runner\_work\Learn-python\Learn-python\docs\screenshots\yzbeckistan\yzbeckistan — 8248.png
