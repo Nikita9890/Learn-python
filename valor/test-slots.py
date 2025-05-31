@@ -24,10 +24,15 @@ logging.basicConfig(
 
 faker = Faker()
 
-# === Пути для отчета и скриншотов ===
-REPORT_PATH = os.path.join(os.getcwd(), "docs")
+# Получаем корневую папку репозитория
+repo_root = os.path.abspath(os.path.join(os.getcwd(), ".."))  # т.к. запускаешь из valor, поднимаемся на уровень вверх
+
+REPORT_PATH = os.path.join(repo_root, "docs")
 BASE_SCREENSHOTS_PATH = os.path.join(REPORT_PATH, "screenshots")
-os.makedirs(BASE_SCREENSHOTS_PATH, exist_ok=True)  # Создаем папки, если их нет
+
+os.makedirs(REPORT_PATH, exist_ok=True)
+
+# дальше использовать REPORT_PATH и BASE_SCREENSHOTS_PATH
 
 # === Пути к папкам ===
 GEO_IMAGES_PATH = "E:\\GEO"
