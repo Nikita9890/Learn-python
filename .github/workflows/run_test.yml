@@ -19,28 +19,9 @@ jobs:
       run: python test-slots.py
 
     - name: Push Report to repo
-      working-directory: valor
-      shell: powershell
       run: |
-        git config user.name "GitHub Actions"
-        git config user.email "actions@github.com"
-
-        git fetch origin main
-        git reset --soft origin/main
-        git add .
-
-        try {
-          git commit -m "Автоотчет после теста"
-        } catch {
-          Write-Host "No changes to commit"
-        }
-
-        try {
-          git pull --rebase origin main
-        } catch {
-          Write-Host "Rebase failed or not needed"
-        }
-
-        git push origin main
-
-
+              git config user.name "GitHub Actions"
+              git config user.email "actions@github.com"
+              git add .
+              git commit -m " Автоотчет после теста"
+              git push
