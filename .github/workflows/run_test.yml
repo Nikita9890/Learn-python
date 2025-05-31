@@ -23,14 +23,18 @@ jobs:
         git config user.name "GitHub Actions"
         git config user.email "actions@github.com"
 
-        git pull --rebase origin main
-        
         git add .
 
         try {
-        git commit -m "Автоотчет после теста" --no-edit
+          git commit -m "Автоотчет после теста"
         } catch {
-        Write-Host "No changes to commit"
+          Write-Host "No changes to commit"
+        }
+
+        try {
+          git pull --rebase origin main
+        } catch {
+          Write-Host "Rebase failed or not needed"
         }
 
         git push origin main
