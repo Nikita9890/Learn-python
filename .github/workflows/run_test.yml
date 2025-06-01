@@ -14,21 +14,27 @@ jobs:
     - name: Установить зависимости
       run: pip install selenium opencv-python pyautogui webdriver-manager faker requests
 
+    - name: Очистить папку docs перед запуском тестов
+      shell: powershell
+      run: |
+        if (Test-Path "docs") {
+          Remove-Item -Path "docs\*" -Recurse -Force
+        }
+
     - name: Запустить скрипт
       working-directory: valor
       run: python test-slots.py
 
     - name: Push Report to repo
-      working-directory: valor
       shell: powershell
       run: |
         git config user.name "GitHub Actions"
         git config user.email "actions@github.com"
 
-        git add .
+        git add -A
 
         try {
-          git commit -m "Автоотчет после теста"
+          git commit -m "Очистка и автоотчет после теста"
         } catch {
           Write-Host "No changes to commit"
         }
