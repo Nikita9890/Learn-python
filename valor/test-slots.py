@@ -43,18 +43,11 @@ geo_list = ["india",
             "columbia",
             "brazil",
             "egipt",
-            "azerbaijan",
-            "bangladesh",
             "pery",
-            "nigerya",
-            "venesyela",
             "mexico",
-            "argentina",
-            "chili",
             "indonezia",
             "korea",
             "malayzia",
-            "yzbeckistan"
 ]
 
 # === Функция генерации уникальных данных для регистрации ===
